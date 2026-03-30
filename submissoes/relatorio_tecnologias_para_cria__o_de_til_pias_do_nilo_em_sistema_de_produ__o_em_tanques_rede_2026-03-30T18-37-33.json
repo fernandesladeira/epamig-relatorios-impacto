@@ -1,0 +1,39 @@
+{
+  "tecnologia": "Tecnologias para criação de tilápias do Nilo em sistema de produção em tanques rede",
+  "data_transmissao": "2026-03-30T18:37:33.944Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": null,
+    "nomeUnidade": "",
+    "campoExperimental": "",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "",
+    "anoInicio": null,
+    "anoDisponibilizacao": null,
+    "anoAdocao": null,
+    "parcerias": "",
+    "participacaoEpamig": null
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": false,
+    "estadosDifusao": "",
+    "publicosBeneficiados": "",
+    "fontesReferencia": [],
+    "politicaPublica": null
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "",
+    "produtoImpactado": "",
+    "unidadeMedida": "",
+    "cenarioComparacao": null,
+    "descricaoCenario": ""
+  }
+}
