@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Relatório de Avaliação de Impacto - EPAMIG (v3 Fase)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+        * { 
+            font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; 
+        }
+        body { 
+            background: #f0f4f9; 
+            font-size: 0.95rem;
+        }
+        .form-card { 
+            scroll-margin-top: 90px; 
+            transition: all 0.2s; 
+        }
+        .char-counter { 
+            font-size: 0.7rem; 
+            color: #475569; 
+            letter-spacing: 0.3px; 
+        }
+        textarea { 
+            resize: vertical; 
+            line-height: 1.5; 
+            font-size: 0.9rem;
+        }
+        input, select, textarea {
+            font-size: 0.9rem;
+        }
+        input:focus, textarea:focus, select:focus { 
+            outline: none; 
+            border-color: #2c7a4d; 
+            box-shadow: 0 0 0 2px rgba(44,122,77,0.2);
+        }
+        .section-title { 
+            font-weight: 700; 
+            letter-spacing: -0.3px; 
+            border-left: 5px solid #2c7a4d; 
+            padding-left: 1rem; 
+            font-size: 1.35rem;
+        }
+        .help-text { 
+            font-size: 0.7rem; 
+            color: #4b5563; 
+            margin-top: 0.25rem; 
+        }
+        .radio-group, .checkbox-group { 
+            display: flex; 
+            flex-wrap: wrap; 
+            gap: 1.2rem; 
+            align-items: center; 
+        }
+        .bg-epamig { background: #1e5631; }
+        .border-epamig { border-color: #1e5631; }
+        .btn-transition { transition: all 0.2s ease; }
+        .btn-transition:active { transform: scale(0.97); }
+        .fonte-card { background: #f9fafb; border-radius: 1.2rem; border: 1px solid #e2e8f0; transition: all 0.1s; }
+        .fonte-card:hover { border-color: #cbd5e1; background: #ffffff; }
+        .required-asterisk::after {
+            content: " *";
+            color: #e53e3e;
+            font-weight: bold;
+        }
+        .field-error {
+            border-color: #e53e3e !important;
+            background-color: #fff5f5 !important;
+        }
+    </style>
+</head>
+<body class="py-8 px-4 md:px-6">
+
+    <div class="max-w-4xl mx-auto">
+        <!-- Header -->
+        <div class="bg-gradient-to-r from-emerald-800 to-emerald-700 rounded-2xl rounded-b-none shadow-lg px-8 py-7 text-white">
+            <h1 class="text-2xl md:text-3xl font-bold text-center tracking-tight">RELATÓRIO DE AVALIAÇÃO DE IMPACTO<br>DAS TECNOLOGIAS GERADAS PELA EPAMIG</h1>
+            <p class="text-center text-emerald-100 text-sm mt-3">Formulário oficial 3ª fase • Dados consolidados para a sede EPAMIG</p>
+        </div>
+
+        <form id="epamigForm" class="bg-white rounded-b-2xl shadow-xl px-6 md:px-10 py-8 space-y-12">
+
+            <!-- ================= SEÇÃO 1 — IDENTIFICAÇÃO DA TECNOLOGIA ================= -->
+            <div class="form-card">
+                <h2 class="section-title text-slate-800 mb-5">SEÇÃO 1 — IDENTIFICAÇÃO DA TECNOLOGIA</h2>
+                <div class="space-y-6">
+                    <!-- 1.1 nome EDITÁVEL - sem readonly, sem disabled, sem value fixo -->
+		    <div>
+		        <label class="block text-sm font-semibold text-slate-800 mb-1 required-asterisk">1.1 Nome da tecnologia <span class="text-red-600">(limite de 120 caracteres)</span></label>
+    			<input id="nomeTecnologia" type="text" maxlength="120" value="Pré-teste de touros Girolando" class="w-full px-4 py-3 border border-slate-300 rounded-xl focus:ring-2 focus:ring-emerald-500 bg-white">
+    			<div class="text-right text-xs text-slate-400 mt-1" id="nomeCharCount">120 caracteres restantes</div>
+		    </div>
+                    <!-- 1.2 unidade regional ou instituto (não obrigatório, hint mantido) -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <div>
+                            <label class="block text-sm font-semibold text-slate-800 mb-2">1.2 Selecione a Unidade Regional da EPAMIG ou Instituto onde a tecnologia foi desenvolvida.</label>
+                            <div class="flex gap-6 mb-3">
+                                <label class="flex items-center gap-2"><input type="radio" name="unidadeTipo" value="Unidade Regional" class="accent-emerald-700 w-4 h-4"> Unidade Regional</label>
+                                <label class="flex items-center gap-2"><input type="radio" name="unidadeTipo" value="Instituto" class="accent-emerald-700 w-4 h-4"> Instituto</label>
+                            </div>
+                            <input type="text" id="nomeUnidade" placeholder="Nome da Unidade / Instituto" class="w-full px-4 py-3 border border-slate-300 rounded-xl">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-semibold text-slate-800 mb-1">1.3 No caso de Unidade Regional, informe o Campo Experimental.</label>
+                            <input type="text" id="campoExperimental" placeholder="nome do campo experimental" class="w-full px-4 py-3 border border-slate-300 rounded-xl">
+                        </div>
+                    </div>
+                    <!-- 1.4 corrigido: substituir "registre" por "informe", sem hint extra -->
+                    <div>
+                        <label class="block text-sm font-semibold text-slate-800 mb-1">1.4 Caso a tecnologia não tenha sido desenvolvida nas Unidades ou Institutos da EPAMIG, informe o local onde a tecnologia foi desenvolvida.</label>
+                        <textarea id="localDesenvolvimento" rows="2" class="w-full px-4 py-3 border border-slate-300 rounded-xl"></textarea>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ================= SEÇÃO 2 — CARACTERIZAÇÃO DA TECNOLOGIA ================= -->
+            <div class="form-card">
+                <h2 class="section-title text-slate-800 mb-5">SEÇÃO 2 — CARACTERIZAÇÃO DA TECNOLOGIA</h2>
+                <div class="space-y-6">
+                    <div>
+                        <label class="block text-sm font-semibold text-slate-800 mb-1 required-asterisk">2.1 Descrição da tecnologia <span class="text-red-600">(limite de 1.200 caracteres)</span></label>
+                        <textarea id="desc2_1" rows="6" maxlength="1200" placeholder="Consulte o documento *instruções para preenchimento*" class="w-full px-4 py-3 border border-slate-300 rounded-xl"></textarea>
+                        <div id="count2_1" class="char-counter text-right mt-1">1.200 caracteres restantes</div>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-3 gap-5">
+                        <div><label class="block text-sm font-semibold text-slate-700 required-asterisk">2.2 Ano de início de geração da tecnologia.</label><input id="anoInicio" type="number" placeholder="AAAA" class="w-full px-4 py-3 border rounded-xl mt-1"></div>
+                        <div><label class="block text-sm font-semibold text-slate-700 required-asterisk">2.3 Ano de disponibilização da tecnologia.</label><input id="anoDisponibilizacao" type="number" placeholder="AAAA" class="w-full px-4 py-3 border rounded-xl mt-1"></div>
+                        <div><label class="block text-sm font-semibold text-slate-700 required-asterisk">2.4 Ano de início da adoção da tecnologia.</label><input id="anoAdocao" type="number" placeholder="AAAA" class="w-full px-4 py-3 border rounded-xl mt-1"></div>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-semibold text-slate-800 mb-1 required-asterisk">2.5 Identifique as instituições e/ou parcerias envolvidas no desenvolvimento da tecnologia, de forma a evidenciar a rede de colaboração científica e institucional que sustenta a inovação.</label>
+                        <textarea id="parcerias" rows="3" placeholder="Ex: Embrapa, UFLA, Cooperativas, etc." class="w-full px-4 py-3 border border-slate-300 rounded-xl"></textarea>
+                    </div>
+                    <div>
+    <label class="block text-sm font-semibold text-slate-800 mb-1 required-asterisk">2.6 Indique, em termos percentuais, a participação institucional da EPAMIG no desenvolvimento da tecnologia.</label>
+    <div class="flex items-center gap-3 flex-wrap">
+        <input id="participacaoEpamig" 
+               type="number" 
+               min="1" 
+               max="70" 
+               step="1" 
+               placeholder="ex: 45" 
+               class="w-32 px-4 py-3 border rounded-xl text-center font-medium"
+               oninput="validarParticipacao(this)">
+        <span class="text-sm text-slate-600">%</span>
+        <span class="text-xs text-amber-700 bg-amber-50 px-3 py-1 rounded-full">Observação: recomenda-se ≤70% para evitar superestimação. Consulte o documento *instruções para preenchimento*</span>
+    </div>
+    <div id="participacaoErro" class="text-xs text-red-600 mt-1 hidden">⚠️ A participação deve ser entre 1% e 70%</div>
+</div>
+
+            <!-- ================= SEÇÃO 3 — DIFUSÃO E BENEFICIÁRIOS ================= -->
+            <div class="form-card">
+                <h2 class="section-title text-slate-800 mb-5">SEÇÃO 3 — DIFUSÃO E BENEFICIÁRIOS</h2>
+                <div class="space-y-8">
+                    <!-- 3.1 territórios - sem quadrado ao lado das opções (apenas texto e checkbox) -->
+                    <div>
+                        <label class="block text-sm font-semibold text-slate-800 mb-3 required-asterisk">3.1 Indique os territórios em que há evidências de adoção da tecnologia, considerando sua disseminação efetiva entre produtores, agroindústrias ou outros públicos beneficiários.</label>
+                        <div class="space-y-4">
+                            <div class="flex items-start gap-2">
+                                <input type="checkbox" id="regional" class="w-5 h-5 mt-0.5 accent-emerald-700">
+                                <div class="flex-1">
+                                    <label for="regional" class="font-medium text-slate-800">Regional: a adoção está restrita a uma ou mais mesorregiões de Minas Gerais.</label>
+                                    <div id="mesorregioes" class="grid grid-cols-2 sm:grid-cols-3 gap-2 mt-3 pl-6 hidden">
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Noroeste de Minas"> Noroeste de Minas</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Norte de Minas"> Norte de Minas</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Jequitinhonha"> Jequitinhonha</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Vale do Mucuri"> Vale do Mucuri</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Triângulo Mineiro/Alto Paranaíba"> Triângulo Mineiro/Alto Paranaíba</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Central Mineira"> Central Mineira</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Metropolitana de Belo Horizonte"> Metropolitana de BH</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Vale do Rio Doce"> Vale do Rio Doce</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Oeste de Minas"> Oeste de Minas</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Sul/Sudoeste de Minas"> Sul/Sudoeste de Minas</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Campo das Vertentes"> Campo das Vertentes</label>
+                                        <label class="flex items-center gap-2 text-sm"><input type="checkbox" class="meso-check accent-emerald-600" value="Zona da Mata"> Zona da Mata</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="flex items-start gap-2">
+                                <input type="checkbox" id="nacional" class="w-5 h-5 mt-0.5 accent-emerald-700">
+                                <div class="flex-1">
+                                    <label for="nacional" class="font-medium text-slate-800">Difusão nacional: a tecnologia apresenta adoção comprovada em outros estados brasileiros, ainda que concentrada em determinadas regiões do país.</label>
+                                    <input type="text" id="estados" placeholder="Indicar estado(s) ex: SP, GO, BA, PR" class="mt-3 w-full px-4 py-2 border border-slate-300 rounded-xl hidden">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 3.2 públicos beneficiados com hint específico -->
+                    <div>
+                        <label class="block text-sm font-semibold text-slate-800 mb-1 required-asterisk">3.2 Identifique e caracterize os públicos diretamente beneficiados pela tecnologia avaliada, tais como produtores rurais, agroindústrias, empresas do setor, cooperativas ou outros grupos organizados <span class="text-red-600">(limite de 700 caracteres)</span>.</label>
+                        <textarea id="publicos" rows="4" maxlength="700" placeholder="Consulte o documento *instruções para preenchimento*" class="w-full px-4 py-3 border rounded-xl"></textarea>
+                        <div id="count3_2" class="char-counter text-right mt-1">700 caracteres restantes</div>
+                    </div>
+                    <!-- 3.3 Fontes de referência, obrigatório pelo menos 2 fontes preenchidas -->
+                    <div>
+                        <label class="block text-sm font-semibold text-slate-800 mb-3 required-asterisk">3.3 Fontes de referência para informações sobre o uso da tecnologia. (Obrigatório preenchimento de pelo menos 2 fontes)</label>
+                        <div id="fontesContainer" class="space-y-5"></div>
+                        <p class="text-xs text-slate-500 mt-2">Preencha os dados de cada fonte (mínimo 2 fontes completas com pelo menos um campo preenchido).</p>
+                    </div>
+                    <!-- 3.4 política pública (não obrigatório) -->
+                    <div>
+                        <label class="block text-sm font-semibold text-slate-800 mb-2">3.4 A tecnologia contribuiu para influenciar ou apoiar políticas públicas no setor agropecuário?</label>
+                        <div class="flex gap-8">
+                            <label class="flex items-center gap-2"><input type="radio" name="politicaPublica" value="Sim" class="accent-emerald-700"> Sim</label>
+                            <label class="flex items-center gap-2"><input type="radio" name="politicaPublica" value="Não" class="accent-emerald-700"> Não</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ================= SEÇÃO 4 — IMPACTOS ECONÔMICOS ================= -->
+<div class="form-card">
+    <h2 class="section-title text-slate-800 mb-5">SEÇÃO 4 — IMPACTOS ECONÔMICOS DA TECNOLOGIA</h2>
+    <div class="space-y-6">
+        <!-- Tipos de impacto: APENAS ESTES CHECKBOXES ficam bloqueados e pré-preenchidos -->
+        <div>
+            <label class="block text-sm font-semibold text-slate-800 mb-2 required-asterisk">Considere o(s) tipo(s) de impacto(s) econômico(s) anteriormente identificado(s)</label>
+            <div class="grid grid-cols-2 gap-3">
+                <label class="flex items-center gap-2 opacity-80"><input type="checkbox" id="chk_produtividade" checked class="accent-emerald-700" disabled> Incremento de produtividade</label>
+                <label class="flex items-center gap-2 opacity-80"><input type="checkbox" id="chk_custos" class="accent-emerald-700" disabled> Redução de custos</label>
+                <label class="flex items-center gap-2 opacity-80"><input type="checkbox" id="chk_expansao" class="accent-emerald-700" disabled> Expansão da produção em novas áreas</label>
+                <label class="flex items-center gap-2 opacity-80"><input type="checkbox" id="chk_valor" class="accent-emerald-700" disabled> Agregação de valor</label>
+            </div>
+        </div>
+        
+        <!-- 4.1 descricao impacto - EDITÁVEL E VAZIO -->
+        <div>
+            <label class="block text-sm font-semibold text-slate-800 mb-1 required-asterisk">4.1 Descreva como o impacto econômico se manifesta na atividade produtiva em que a tecnologia está sendo aplicada <span class="text-red-600">(limite de 2.500 caracteres)</span>.</label>
+            <textarea id="impacto4_1" rows="8" maxlength="2500" placeholder="Consulte o documento *instruções para preenchimento*" class="w-full border rounded-xl px-4 py-3"></textarea>
+            <div id="count4_1" class="char-counter text-right mt-1">2.500 caracteres restantes</div>
+        </div>
+        
+        <div class="grid md:grid-cols-2 gap-6">
+            <div>
+                <label class="block text-sm font-semibold text-slate-800 required-asterisk">4.2 Indique o principal produto ou resultado produtivo impactado pela adoção da tecnologia (ex.: leite, queijo produzido, lactações concluídas, café beneficiado, mudas, pêssego in natura, etc.).</label>
+                <input id="produto4_2" type="text" placeholder="Consulte o documento *instruções para preenchimento*" class="w-full mt-1 px-4 py-3 border rounded-xl">
+            </div>
+            <div>
+                <label class="block text-sm font-semibold text-slate-800 required-asterisk">4.3 Informe a unidade de medida mais adequada para representar seu desempenho e justifique (kg/ano, kg/ha/ano, litros/ano, sacas/ha/ano).</label>
+                <input id="unidade4_3" type="text" placeholder="Consulte o documento *instruções para preenchimento*" class="w-full mt-1 px-4 py-3 border rounded-xl">
+            </div>
+        </div>
+        
+        <!-- 4.4 cenário comparação radio (obrigatório) -->
+        <div>
+            <label class="block text-sm font-semibold text-slate-800 mb-3 required-asterisk">4.4 O impacto econômico da tecnologia será estimado por meio da comparação entre a situação com adoção e a situação sem adoção da tecnologia EPAMIG. Para isso, indique qual referência representa melhor a situação que deve ser usada como base de comparação. Consulte o documento *instruções para preenchimento*</label>
+            <div class="space-y-2">
+                <label class="flex items-center gap-2"><input type="radio" name="cenarioComparacao" value="Prática tradicional anteriormente utilizada" class="accent-emerald-700"> Prática tradicional anteriormente utilizada</label>
+                <label class="flex items-center gap-2"><input type="radio" name="cenarioComparacao" value="Tecnologia alternativa ou concorrente" class="accent-emerald-700"> Tecnologia alternativa ou concorrente</label>
+                <label class="flex items-center gap-2"><input type="radio" name="cenarioComparacao" value="Ausência parcial ou total da atividade" class="accent-emerald-700"> Ausência parcial ou total da atividade</label>
+                <label class="flex items-center gap-2"><input type="radio" name="cenarioComparacao" value="Desempenho observado entre não adotantes" class="accent-emerald-700"> Desempenho observado entre não adotantes</label>
+            </div>
+        </div>
+        
+        <!-- 4.5 descricao cenario -->
+        <div>
+            <label class="block text-sm font-semibold text-slate-800 mb-1 required-asterisk">4.5 Descreva, de forma objetiva, como funciona o cenário de comparação selecionado e explique por que ele é a melhor referência para representar a situação sem adoção da tecnologia EPAMIG <span class="text-red-600">(limite de 1.000 caracteres)</span>.</label>
+            <textarea id="cenario4_5" rows="5" maxlength="1000" placeholder="Consulte o documento *instruções para preenchimento*" class="w-full border rounded-xl px-4 py-3"></textarea>
+            <div id="count4_5" class="char-counter text-right mt-1">1.000 caracteres restantes</div>
+        </div>
+    </div>
+</div>
+
+            <!-- Botões -->
+            <div class="flex flex-col sm:flex-row gap-4 pt-6 border-t border-slate-200">
+                <button type="button" onclick="window.print()" class="bg-emerald-700 hover:bg-emerald-800 text-white font-semibold py-3 rounded-xl transition shadow-sm flex items-center justify-center gap-2">🖨️ Imprimir / Salvar como PDF</button>
+                <button type="button" onclick="limparFormulario()" class="border border-slate-300 hover:bg-slate-100 font-medium py-3 rounded-xl transition">🗑️ Limpar formulário</button>
+                <button type="button" onclick="validarEEnviar()" class="bg-blue-700 hover:bg-blue-800 text-white font-semibold py-3 rounded-xl shadow-sm flex items-center justify-center gap-2">📤 Enviar para EPAMIG Sede </button>
+            </div>
+        </form>
+        <div class="text-center text-xs text-slate-400 py-5">EPAMIG - Relatório de Impacto 3ª fase • Todos os campos obrigatórios (*) devem ser preenchidos, exceto 1.2, 1.3, 1.4.</div>
+    </div>
+
+    <script>
+    // Geração das 4 fontes com estrutura completa
+    function gerarFontesCompletas() {
+        const container = document.getElementById('fontesContainer');
+        if (!container) return;
+        container.innerHTML = '';
+        for (let i = 1; i <= 4; i++) {
+            const div = document.createElement('div');
+            div.className = 'fonte-card p-5';
+            div.innerHTML = `
+                <p class="font-bold text-emerald-800 text-sm mb-3">📌 Fonte ${i}</p>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div><label class="text-xs font-semibold text-slate-600">Nome do estabelecimento</label><input type="text" class="fonte-nome w-full px-3 py-2 border rounded-lg mt-1" data-fonte="${i}" data-campo="estabelecimento" placeholder="Ex: Fazenda Boa Vista"></div>
+                    <div><label class="text-xs font-semibold text-slate-600">Tipo de estabelecimento</label><input type="text" class="fonte-tipo w-full px-3 py-2 border rounded-lg mt-1" data-fonte="${i}" data-campo="tipo" placeholder="Agroindústria / Propriedade rural"></div>
+                    <div><label class="text-xs font-semibold text-slate-600">Município onde está localizado</label><input type="text" class="fonte-municipio w-full px-3 py-2 border rounded-lg mt-1" data-fonte="${i}" data-campo="municipio" placeholder="Patos de Minas"></div>
+                    <div><label class="text-xs font-semibold text-slate-600">Nome da pessoa para contato</label><input type="text" class="fonte-contato w-full px-3 py-2 border rounded-lg mt-1" data-fonte="${i}" data-campo="nomeContato" placeholder="João Silva"></div>
+                    <div class="md:col-span-2"><label class="text-xs font-semibold text-slate-600">Telefone para contato</label><input type="tel" class="fonte-telefone w-full px-3 py-2 border rounded-lg mt-1" data-fonte="${i}" data-campo="telefone" placeholder="(34) 99999-1234"></div>
+                </div>
+            `;
+            container.appendChild(div);
+        }
+    }
+
+    // Contadores
+    function setupCharCounters() {
+        const fields = [
+            { id: 'desc2_1', max: 1200, countId: 'count2_1' },
+            { id: 'publicos', max: 700, countId: 'count3_2' },
+            { id: 'impacto4_1', max: 2500, countId: 'count4_1' },
+            { id: 'cenario4_5', max: 1000, countId: 'count4_5' }
+        ];
+        fields.forEach(f => {
+            const el = document.getElementById(f.id);
+            const cnt = document.getElementById(f.countId);
+            if (el && cnt) {
+                const update = () => { cnt.innerText = `${(f.max - el.value.length).toLocaleString('pt-BR')} caracteres restantes`; };
+                el.addEventListener('input', update);
+                update();
+            }
+        });
+        const nomeInput = document.getElementById('nomeTecnologia');
+        const nomeCounter = document.getElementById('nomeCharCount');
+        if (nomeInput && nomeCounter) {
+            const updateNome = () => { nomeCounter.innerText = `${(120 - nomeInput.value.length)} caracteres restantes`; };
+            nomeInput.addEventListener('input', updateNome);
+            updateNome();
+        }
+    }
+
+    function setupConditionals() {
+        const regional = document.getElementById('regional');
+        const mesoDiv = document.getElementById('mesorregioes');
+        if (regional && mesoDiv) regional.addEventListener('change', () => mesoDiv.classList.toggle('hidden', !regional.checked));
+        const nacional = document.getElementById('nacional');
+        const estadosInput = document.getElementById('estados');
+        if (nacional && estadosInput) nacional.addEventListener('change', () => estadosInput.classList.toggle('hidden', !nacional.checked));
+    }
+
+    function coletarMesorregioes() { return Array.from(document.querySelectorAll('.meso-check:checked')).map(cb => cb.value); }
+    
+    function coletarFontes() {
+        const fontes = [];
+        for (let i = 1; i <= 4; i++) {
+            const estabelecimento = document.querySelector(`.fonte-nome[data-fonte="${i}"]`)?.value || '';
+            const tipo = document.querySelector(`.fonte-tipo[data-fonte="${i}"]`)?.value || '';
+            const municipio = document.querySelector(`.fonte-municipio[data-fonte="${i}"]`)?.value || '';
+            const nomeContato = document.querySelector(`.fonte-contato[data-fonte="${i}"]`)?.value || '';
+            const telefone = document.querySelector(`.fonte-telefone[data-fonte="${i}"]`)?.value || '';
+            if (estabelecimento || tipo || municipio || nomeContato || telefone) {
+                fontes.push({ estabelecimento, tipo, municipio, nomeContato, telefone });
+            }
+        }
+        return fontes;
+    }
+    
+    // Função para validar participação EPAMIG em tempo real
+function validarParticipacao(input) {
+    const valor = parseInt(input.value, 10);
+    const erroDiv = document.getElementById('participacaoErro');
+    
+    if (input.value === '') {
+        erroDiv.classList.add('hidden');
+        return;
+    }
+    
+    if (isNaN(valor) || valor < 1 || valor > 70) {
+        input.classList.add('field-error');
+        erroDiv.classList.remove('hidden');
+        return false;
+    } else {
+        input.classList.remove('field-error');
+        erroDiv.classList.add('hidden');
+        return true;
+    }
+}
+
+// Função de validação do formulário (atualizada)
+function validarFormulario() {
+    let isValid = true;
+    document.querySelectorAll('.field-error').forEach(el => el.classList.remove('field-error'));
+    
+    // campos obrigatórios
+    const obrigatorios = [
+        { el: document.getElementById('nomeTecnologia'), nome: 'Nome da tecnologia' },
+        { el: document.getElementById('desc2_1'), nome: 'Descrição da tecnologia' },
+        { el: document.getElementById('anoInicio'), nome: 'Ano de início' },
+        { el: document.getElementById('anoDisponibilizacao'), nome: 'Ano de disponibilização' },
+        { el: document.getElementById('anoAdocao'), nome: 'Ano de adoção' },
+        { el: document.getElementById('parcerias'), nome: 'Instituições e parcerias' },
+        { el: document.getElementById('participacaoEpamig'), nome: 'Participação EPAMIG' },
+        { el: document.getElementById('publicos'), nome: 'Públicos beneficiados' },
+        { el: document.getElementById('impacto4_1'), nome: 'Descrição impacto econômico' },
+        { el: document.getElementById('produto4_2'), nome: 'Produto impactado' },
+        { el: document.getElementById('unidade4_3'), nome: 'Unidade de medida' },
+        { el: document.getElementById('cenario4_5'), nome: 'Descrição cenário comparação' }
+    ];
+    
+    // Validação especial para participação EPAMIG (intervalo 1-70)
+    const participacaoInput = document.getElementById('participacaoEpamig');
+    if (participacaoInput && participacaoInput.value) {
+        const valor = parseInt(participacaoInput.value, 10);
+        if (isNaN(valor) || valor < 1 || valor > 70) {
+            participacaoInput.classList.add('field-error');
+            document.getElementById('participacaoErro')?.classList.remove('hidden');
+            alert("Participação EPAMIG: informe um valor entre 1% e 70%");
+            isValid = false;
+        }
+    } else if (participacaoInput && (!participacaoInput.value || participacaoInput.value.trim() === '')) {
+        participacaoInput.classList.add('field-error');
+        alert("Campo obrigatório: Participação EPAMIG");
+        isValid = false;
+    }
+    
+    // validação radio cenarioComparacao
+    const cenarioRadio = document.querySelector('input[name="cenarioComparacao"]:checked');
+    if (!cenarioRadio) {
+        alert("Por favor, selecione uma opção em 4.4 (cenário de comparação).");
+        isValid = false;
+    }
+    
+    for (let field of obrigatorios) {
+        if (field.el && field.el.id !== 'participacaoEpamig') { // já validamos acima
+            if (!field.el.value || field.el.value.trim() === '') {
+                field.el.classList.add('field-error');
+                alert(`Campo obrigatório: ${field.nome}`);
+                isValid = false;
+                break;
+            }
+        }
+    }
+    
+    // validação mínimo 2 fontes
+    const fontesPreenchidas = coletarFontes();
+    if (fontesPreenchidas.length < 2) {
+        alert("É obrigatório o preenchimento de pelo menos 2 fontes de referência (seção 3.3).");
+        isValid = false;
+    }
+    
+    return isValid;
+}
+    
+    async function transmitirParaGitHub() {
+        const token = prompt("🔑 Cole seu GitHub Personal Access Token (permissão 'repo'):");
+        if (!token) return;
+        const owner = "fernandesladeira";
+        const repo = "epamig-relatorios-impacto";
+        const nomeTec = document.getElementById('nomeTecnologia').value.trim() || "tecnologia_epamig";
+        const slug = nomeTec.toLowerCase().replace(/[^a-z0-9]/g, '_');
+        const dataStr = new Date().toISOString().slice(0,19).replace(/:/g, '-');
+        const filename = `submissoes/relatorio_${slug}_${dataStr}.json`;
+        
+        const payload = {
+            tecnologia: nomeTec,
+            data_transmissao: new Date().toISOString(),
+            status: "enviado_pelo_pesquisador",
+            secao1: {
+                unidadeTipo: document.querySelector('input[name="unidadeTipo"]:checked')?.value || null,
+                nomeUnidade: document.getElementById('nomeUnidade')?.value || '',
+                campoExperimental: document.getElementById('campoExperimental')?.value || '',
+                localDesenvolvimento: document.getElementById('localDesenvolvimento')?.value || ''
+            },
+            secao2: {
+                descricao: document.getElementById('desc2_1')?.value || '',
+                anoInicio: document.getElementById('anoInicio')?.value || null,
+                anoDisponibilizacao: document.getElementById('anoDisponibilizacao')?.value || null,
+                anoAdocao: document.getElementById('anoAdocao')?.value || null,
+                parcerias: document.getElementById('parcerias')?.value || '',
+                participacaoEpamig: document.getElementById('participacaoEpamig')?.value || null
+            },
+            secao3: {
+                regionalAtivado: document.getElementById('regional')?.checked || false,
+                mesorregioesSelecionadas: coletarMesorregioes(),
+                difusaoNacional: document.getElementById('nacional')?.checked || false,
+                estadosDifusao: document.getElementById('estados')?.value || '',
+                publicosBeneficiados: document.getElementById('publicos')?.value || '',
+                fontesReferencia: coletarFontes(),
+                politicaPublica: document.querySelector('input[name="politicaPublica"]:checked')?.value || null
+            },
+            secao4: {
+                tiposImpacto: [],
+                descricaoImpacto: document.getElementById('impacto4_1')?.value || '',
+                produtoImpactado: document.getElementById('produto4_2')?.value || '',
+                unidadeMedida: document.getElementById('unidade4_3')?.value || '',
+                cenarioComparacao: document.querySelector('input[name="cenarioComparacao"]:checked')?.value || null,
+                descricaoCenario: document.getElementById('cenario4_5')?.value || ''
+            }
+        };
+        if(document.getElementById('chk_produtividade')?.checked) payload.secao4.tiposImpacto.push("Incremento de produtividade");
+        if(document.getElementById('chk_custos')?.checked) payload.secao4.tiposImpacto.push("Redução de custos");
+        if(document.getElementById('chk_expansao')?.checked) payload.secao4.tiposImpacto.push("Expansão da produção em novas áreas");
+        if(document.getElementById('chk_valor')?.checked) payload.secao4.tiposImpacto.push("Agregação de valor");
+        
+        const content = btoa(unescape(encodeURIComponent(JSON.stringify(payload, null, 2))));
+        try {
+            const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${filename}`, {
+                method: 'PUT',
+                headers: { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: `📊 Relatório 3ª fase: ${nomeTec}`, content: content, branch: "main" })
+            });
+            if (res.ok) alert(`✅ Relatório enviado com sucesso!\nArquivo: ${filename}\nAcesse repositório EPAMIG Sede.`);
+            else { const err = await res.json(); alert(`❌ Erro GitHub: ${err.message}`); }
+        } catch(e) { alert(`❌ Falha conexão: ${e.message}`); }
+    }
+    
+    function limparFormulario() {
+        if (confirm('Limpar todos os dados do formulário? Dados não salvos serão perdidos.')) {
+            document.getElementById('epamigForm').reset();
+            document.getElementById('mesorregioes').classList.add('hidden');
+            document.getElementById('estados').classList.add('hidden');
+            ['desc2_1', 'publicos', 'impacto4_1', 'cenario4_5'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.dispatchEvent(new Event('input'));
+            });
+            if(document.getElementById('nomeTecnologia')) document.getElementById('nomeTecnologia').dispatchEvent(new Event('input'));
+            for(let i=1;i<=4;i++){
+                const nome = document.querySelector(`.fonte-nome[data-fonte="${i}"]`);
+                if(nome) nome.value = '';
+                const tipo = document.querySelector(`.fonte-tipo[data-fonte="${i}"]`);
+                if(tipo) tipo.value = '';
+                const municipio = document.querySelector(`.fonte-municipio[data-fonte="${i}"]`);
+                if(municipio) municipio.value = '';
+                const contato = document.querySelector(`.fonte-contato[data-fonte="${i}"]`);
+                if(contato) contato.value = '';
+                const tel = document.querySelector(`.fonte-telefone[data-fonte="${i}"]`);
+                if(tel) tel.value = '';
+            }
+        }
+    }
+    
+    function validarEEnviar() {
+        if (validarFormulario()) {
+            transmitirParaGitHub();
+        }
+    }
+    
+    window.onload = () => {
+    gerarFontesCompletas();
+    setupCharCounters();
+    setupConditionals();
+    
+    // Adiciona validação em tempo real para o campo participação
+    const participacaoInput = document.getElementById('participacaoEpamig');
+    if (participacaoInput) {
+        participacaoInput.addEventListener('input', function() {
+            validarParticipacao(this);
+        });
+    }
+};
+</script>
+</body>
+</html>
