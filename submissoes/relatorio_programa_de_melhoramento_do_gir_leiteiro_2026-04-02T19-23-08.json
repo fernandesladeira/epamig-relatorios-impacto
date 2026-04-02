@@ -1,0 +1,61 @@
+{
+  "tecnologia": "Programa de melhoramento do Gir leiteiro",
+  "data_transmissao": "2026-04-02T19:23:08.453Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Unidade Oeste",
+    "campoExperimental": "Campo Experimental Getúlio Vargas – Uberaba",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "A tecnologia consiste em um programa estruturado de melhoramento genético da raça Gir Leiteiro, baseado na avaliação reprodutiva e produtiva de touros por meio de testes de progênie. O programa foi desenvolvido para superar limitações na identificação precoce de reprodutores geneticamente superiores, aumentando a eficiência da seleção e acelerando o ganho genético dos rebanhos leiteiros.\n\nA solução envolve a seleção inicial de touros jovens, submetidos a um pré-teste para avaliação de fertilidade e qualidade seminal. Os animais aprovados seguem para o teste de progênie, no qual doses de sêmen são distribuídas a diferentes rebanhos, permitindo a avaliação do desempenho produtivo das filhas, especialmente em relação à produção e qualidade do leite.\n\nO sistema funciona de forma integrada entre centros de pesquisa e produtores, possibilitando a coleta de dados em condições reais de campo. Como diferencial, a tecnologia permite maior acurácia na seleção de reprodutores, reduzindo riscos na escolha genética e promovendo maior previsibilidade produtiva.\n\nComo resultado, espera-se aumento da produtividade, melhoria da qualidade do leite e maior eficiência dos sistemas de produção.",
+    "anoInicio": "2025",
+    "anoDisponibilizacao": "2026",
+    "anoAdocao": "2025",
+    "parcerias": "O desenvolvimento e a consolidação da tecnologia envolvem uma rede de colaboração científica e institucional composta por diferentes atores estratégicos da cadeia produtiva leiteira. A EPAMIG atua como instituição coordenadora, sendo responsável pela condução do programa de melhoramento genético do Gir Leiteiro, incluindo a seleção de reprodutores, condução de avaliações e integração das informações produtivas e reprodutivas.\n\nA Associação Brasileira dos Criadores de Gir Leiteiro participa de forma ativa no fomento da raça, na articulação com criadores e no suporte às ações de difusão e adoção da tecnologia.\n\nA Embrapa Gado de Leite contribui com ferramentas de avaliação genética e genômica, incluindo a prova genômica da raça Gir, auxiliando na identificação de reprodutores superiores e no direcionamento da seleção para o teste de progênie.\n\nA Faculdades Associadas de Uberaba atua como parceira na execução do pré-teste de progênie, sendo responsável pela avaliação de características reprodutivas, comportamentais e de desempenho dos touros em condições controladas.\n\nEssa articulação institucional permite a integração entre pesquisa, validação em campo e difusão da tecnologia, fortalecendo a eficiência e a confiabilidade do programa de melhoramento genético.",
+    "participacaoEpamig": "50"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "Minas Gerais, Goiás, São Paulo, Bahia, Mato Grosso, Mato Grosso do Sul, Tocantins, Pará e Rondônia.",
+    "publicosBeneficiados": "s principais beneficiários são produtores de leite que utilizam genética da raça Gir Leiteiro e seus cruzamentos, abrangendo desde agricultores familiares até médios e grandes produtores. Estão inseridos em sistemas de produção a pasto ou semi-intensivos, típicos de regiões tropicais, com uso crescente de biotecnologias reprodutivas, como inseminação artificial. Também são beneficiadas cooperativas, centrais de inseminação e empresas do setor, que utilizam a genética melhorada para aumentar a produtividade, a eficiência reprodutiva e a qualidade do leite em condições adaptadas ao clima tropical.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Fazenda Experimental Getúlio Vargas – EPAMIG",
+        "tipo": "Instituição de pesquisa",
+        "municipio": "Uberaba",
+        "nomeContato": "Luiz Fernando Féres",
+        "telefone": "32988125482"
+      },
+      {
+        "estabelecimento": "Fazendas do BASA",
+        "tipo": "Fazenda Comercial de produção de leite",
+        "municipio": "Muriaé",
+        "nomeContato": "Evandro do Carmo Guimarães",
+        "telefone": "11999109575"
+      },
+      {
+        "estabelecimento": "Agronegócio 2B",
+        "tipo": "Fazenda de seleção de Gir Leiteiro",
+        "municipio": "Paropeba",
+        "nomeContato": "Adriano Bicalho",
+        "telefone": "31996972957"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos"
+    ],
+    "descricaoImpacto": "A tecnologia de melhoramento genético baseada em testes de progênie do Gir Leiteiro impacta diretamente a atividade produtiva ao permitir a identificação e difusão de reprodutores geneticamente superiores, promovendo ganhos consistentes em produtividade, eficiência e qualidade do leite.\n\nO principal mecanismo de impacto ocorre por meio do uso de sêmen de touros provados, cujas filhas apresentam maior produção de leite, melhor persistência de lactação e maior adaptação às condições tropicais. Isso resulta em incremento da produtividade por vaca e por área, aumentando a produção total sem necessidade proporcional de ampliação do rebanho.\n\nAdicionalmente, há melhoria da eficiência reprodutiva, com redução de intervalos entre partos e maior taxa de prenhez, o que diminui custos associados a falhas reprodutivas, descarte precoce de animais e uso excessivo de insumos reprodutivos.\n\nA tecnologia também contribui para a redução de custos indiretos, uma vez que animais geneticamente superiores tendem a apresentar maior rusticidade e adaptação ao sistema a pasto, reduzindo gastos com alimentação concentrada, sanidade e manejo intensivo.\n\nOutro impacto relevante é a agregação de valor aos animais e produtos, já que a utilização de genética comprovada aumenta o valor comercial de matrizes, reprodutores e embriões, além de possibilitar a produção de leite com maior qualidade, atendendo às exigências de mercado.\n\nPor fim, a tecnologia viabiliza a expansão da produção leiteira em regiões tropicais e de menor tecnificação, onde raças taurinas apresentam menor desempenho, permitindo maior eficiência produtiva em sistemas a pasto e contribuindo para a sustentabilidade econômica da atividade.",
+    "produtoImpactado": "Leite (litros por vaca/ano)",
+    "unidadeMedida": "Litros de leite por vaca por ano (L/vaca/ano). Essa unidade permite medir de forma objetiva o desempenho produtivo associado à adoção da tecnologia, pois expressa o ganho anual de produção das filhas de touros geneticamente superiores em relação aos animais sem essa base genética. Além disso, é uma medida amplamente utilizada na bovinocultura leiteira, facilitando a comparação entre sistemas de produção e a estimativa dos impactos econômicos decorrentes do melhoramento genético.",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "No cenário sem a adoção da tecnologia, os produtores utilizam genética baseada em touros não provados ou selecionados por critérios empíricos, como características fenotípicas ou pedigree, sem validação por teste de progênie. Nesse contexto, há maior variabilidade produtiva, menor previsibilidade de desempenho das filhas e menor eficiência na seleção de reprodutores, resultando em menores níveis de produção de leite e maior risco de investimento genético.\n\nEsse cenário representa a prática tradicional anteriormente utilizada na bovinocultura leiteira, sendo a melhor referência de comparação, pois reflete a realidade predominante antes da disponibilização de touros geneticamente avaliados. Assim, permite evidenciar de forma clara os ganhos em produtividade, eficiência e qualidade obtidos com a adoção da tecnologia desenvolvida pela EPAMIG."
+  }
+}
