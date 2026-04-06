@@ -1,0 +1,54 @@
+{
+  "tecnologia": "Monitoramento da broca do cafeeiro",
+  "data_transmissao": "2026-04-06T12:58:06.180Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Unidade Regional Epamig Sul",
+    "campoExperimental": "CELA",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "BROCA-DO-CAFÉ  - Criação do Banco de Dados\nAmostragens de 50 plantas por talhão.\nAmostragens, realizadas mensalmente, iniciando-se três meses após a maior florada do cafeeiro e terminando por ocasião da colheita. \nA primeira amostragem érealizada no topo das plantas, onde eram encontrados os frutos chumbões da primeira florada.\nAs demais amostragens foram feitas variando a colheita do terço médio para o terço inferior.\n Em cada amostragem foram coletados 10 frutos por planta, sendo 5 frutos de cada lado da planta, totalizado 500 frutos. \nApós a colheita dos frutos foi realizada a separação e contagem dos frutos broqueados. O percentual de infestação foi determinado a partir da seguinte fórmula: \nIncidência (%) = (n° de frutos broqueados / n° total de frutos coletadas) x 100\nA infestação é relacionada às condições climáticas: Temperatura média mensal e total de precipitação no mês. \nTeste da aplicação de modelos matemáticos para predição de infestação futura, em função do banco de dados criado.\n",
+    "anoInicio": "2004",
+    "anoDisponibilizacao": "2009",
+    "anoAdocao": "2009",
+    "parcerias": "Embrapa café, UFLA, Emater - mg.",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "MG, SP, BA.",
+    "publicosBeneficiados": "Emater, Senar, Cooxupé, Cocatrel, Cooparaíso (Copercitros), Cocacer, entre outros, Cafeicultores.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Ipanema Coffees - Fazenda Conquista ",
+        "tipo": "Propriedade Rural.",
+        "municipio": "Alfenas - MG",
+        "nomeContato": "Gerente",
+        "telefone": "(35)3299-2700"
+      },
+      {
+        "estabelecimento": "Fazenda Cochoeira",
+        "tipo": "Propriedade Rural",
+        "municipio": "Santo Antônio do Amparo",
+        "nomeContato": "Gerente",
+        "telefone": " (35) 99818-1776"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Redução de custos",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "Através do monitoramento se define a necessidade ou não do uso do controle químico, em função do nível de infestação observado, evitando o uso indiscriminado de agrotóxicos, sendo recomendado o controle com infestação maior que 3,0% de frutos perfurados, sendo a recomendação feita por talhão que alcançou o referido índice de infestação e com isso observa-se uma redução no gasto com aplicação desnecessário do produto químico, com uma maior preservação e menor impacto ao meio ambiente. Com o manejo adequado do monitoramento e controle oportuno da broca, antes que cause damos aos grãos de café, temos um produto de melhor qualidade, com maior agregação de valor ao café produzido.",
+    "produtoImpactado": "Café beneficiado sem índices elevados de frutos brocados.",
+    "unidadeMedida": "sacas de cafés beneficiado com índices de frutos brocados, dentro dos limites aceitáveis pela legislação.",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Aplicação de produtos químicos por calendário, sem avaliar, através do monitoramento, o nível de infestação da broca, aplicando em área total, elevando o custo de produção e uma maior contaminação ambiental e não raramente, eliminando inimigos naturais da broca e de outras pragas que atacam o cafeeiro, causando maior desiquilíbrio ao meio ambiente."
+  }
+}
