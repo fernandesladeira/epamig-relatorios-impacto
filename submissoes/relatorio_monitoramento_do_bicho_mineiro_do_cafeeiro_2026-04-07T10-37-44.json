@@ -1,0 +1,54 @@
+{
+  "tecnologia": "Monitoramento do bicho-mineiro do cafeeiro",
+  "data_transmissao": "2026-04-07T10:37:44.907Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Unidade Regional Epamig Sul",
+    "campoExperimental": "CELA",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "BICHO-MINEIRO-DO-CAFEEIRO\nAmostragens de 50 plantas por talhão.\nColeta de 2 folhas, cada planta, no terceiro ou quarto par de folhas do ramo, no terço médio da planta, totalizando 100 folhas/talhão. \nAmostragens realizadas mensalmente avaliando-se o número de folhas com lesões de BMC (minas intactas e minas predadas). \nA incidência do BMC foi determinada a partir da seguinte fórmula: \nIncidência (%) = (n° de folhas com lesões / n° total de folhas coletadas) x 100\nA infestação é relacionada às condições climáticas: Temperatura média mensal e total de precipitação no mês. Tendo sido reduzido o Nível de danos em função do aquecimento global.\nInfestação > 20,0 % (Sul de Minas e Zona da Mata, com previsão de estiagem prolongada. iniciar o controle químico.\nInfestação > 10,0 % (Triângulo Mineiro), com previsão de estiagem prolongada, iniciar o controle químico, \nIncidência (%) = (n° de folhas com lesões / n° total de folhas coletadas) x 100\nA incidência é relacionada às condições climáticas: Temperatura média mensal e total de precipitação no mês. \n\n",
+    "anoInicio": "2004",
+    "anoDisponibilizacao": "2014",
+    "anoAdocao": "2014",
+    "parcerias": "Embrapa Café, UFLA, Emater - MG e Senar.",
+    "participacaoEpamig": "60"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "SP e BA.",
+    "publicosBeneficiados": "Cooperativas (Cooxupé, Cocatrel, Copercitrus, Coocacer, entre outras), Empresas de assistência técnica, Cafeicultores.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Fazenda Cachoeira",
+        "tipo": "Propriedade Rural",
+        "municipio": "Santo Antônio do Amparo",
+        "nomeContato": "Gerente",
+        "telefone": "(35)99818-1776"
+      },
+      {
+        "estabelecimento": "Fazenda Dívisa",
+        "tipo": "Propriedade Rural",
+        "municipio": "Oliveira - MG",
+        "nomeContato": "Thais - Proprietária",
+        "telefone": "(31)( 99974-1920"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos"
+    ],
+    "descricaoImpacto": "A partir do monitoramento da infestação do Bicho-mineiro-do-cafeeiro-BMC, definir estratégias de manejo preventivas com a finalidade de evitar ou retardar o aumento populacional da Praga que cause dano econômico, procurando aumentar a resistência ambiental, através do controle biológico conservativo, favorecendo a preservação e aumento dos inimigos naturais do BMC, como os parasitoides e predadores. Se, através do monitoramento, principalmente se as condições climáticas estejam favoráveis ao aumento populacional do BMC, como temperaturas elevadas e estiagem prolongada, muitas vezes o cafeicultor deverá lançar mão do controle químico, devendo ser orientado a utilizar produtos eficientes no controle da praga e que sejam seletivos aos insetos não alvos como os inimigos naturais e as abelhas. Com o uso de estratégias de Manejo Integrado das pragas do cafeeiro, teremos uma redução drástica no uso de produtos químicos, acarretando uma redução no custo de produção e, através da regulação populacional da praga, evitando que cause dano econômico, preservando o enfolhamento da lavoura e assim favorecendo um grande incremento de produtividade.",
+    "produtoImpactado": "Aumento da Produtividade/sacas beneficiadas",
+    "unidadeMedida": "sacas de café/ha/ano.",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Aplicação de produtos químicos por calendário, sem avaliar, através do monitoramento, o nível de infestação do Bicho-mineiro, aplicação indiscriminada de produtos, muitas vezes, não seletivos aos insetos não alvos, elevando o custo de produção e uma maior contaminação ambiental e não raramente,eliminando inimigos naturais do BMC a e de outras pragas que atacam o cafeeiro, causando  desiquilíbrio ao meio ambiente e ressurgência de pragas, através da diminuição da resistência ambiental, pela eliminação de inimigos naturais."
+  }
+}
