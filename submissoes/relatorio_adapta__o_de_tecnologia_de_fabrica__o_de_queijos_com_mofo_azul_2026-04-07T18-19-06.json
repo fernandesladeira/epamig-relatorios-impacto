@@ -1,0 +1,68 @@
+{
+  "tecnologia": "Adaptação de tecnologia de fabricação de queijos com mofo-azul",
+  "data_transmissao": "2026-04-07T18:19:06.105Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Instituto",
+    "nomeUnidade": "EPAMIG ILCT",
+    "campoExperimental": "",
+    "localDesenvolvimento": "Existem relatos que a tecnologia foi desenvolvida no ILCT, no entanto não temos registros robustos daquela época que comprovem o desenvolvimento da tecnologia."
+  },
+  "secao2": {
+    "descricao": "Estima-se que o Instituto de Laticínios Cândido Tostes (EPAMIG ILCT) contribuiu para a tecnologia de queijo de mofo azul ao adaptar, estudar e aprimorar a formulação e o processo de maturação de queijos tipo azul e gorgonzola, com foco em composição físico‑química, controle de sal e desenvolvimento de metodologias para garantir segurança, qualidade sensorial e regularidade da produção em larga escala. A partir de pesquisas com queijo azul e gorgonzola, o ILCT produziu bases técnicas sobre a influência do sal, umidade, pH e da ação de \"Penicillium roqueforti\" na maturação, servindo como referência para ajustes de processos em indústrias e pequenos produtores e para a atualização de regulamentos técnicos de identidade e qualidade desses queijos.\n\n",
+    "anoInicio": "1960",
+    "anoDisponibilizacao": "1970",
+    "anoAdocao": "1970",
+    "parcerias": "Não se aplica. Pois a tecnologia é muito antiga.",
+    "participacaoEpamig": "50"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "SP, GO, BA, MT, RS, PR",
+    "publicosBeneficiados": "Agroindústrias, queijarias artesanais, laticínios, empresas do setor e cooperativas.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Laticínios Cruzilia",
+        "tipo": "Laticínios",
+        "municipio": "Cruzília - MG",
+        "nomeContato": "Não se aplica",
+        "telefone": ""
+      },
+      {
+        "estabelecimento": "Laticínios São Vicente",
+        "tipo": "Laticínios ",
+        "municipio": "São Vicente de Minas",
+        "nomeContato": "",
+        "telefone": ""
+      },
+      {
+        "estabelecimento": "Laticínios Sabor da Serra",
+        "tipo": "Laticínios",
+        "municipio": "Lima Duarte",
+        "nomeContato": "",
+        "telefone": ""
+      },
+      {
+        "estabelecimento": "Tirolez",
+        "tipo": "Laticínios",
+        "municipio": "Tiros (MG)",
+        "nomeContato": "",
+        "telefone": ""
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Expansão da produção em novas áreas",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "Ao produzir um produto diferenciado, com identidade sensorial marcada (sabor, aroma e textura), o queijo de mofo azul passa a ser comercializado por preço mais elevado, resultando em maior margem de lucro por unidade produzida, o que reforça a viabilidade econômica de laticínios e de pequenos produtores ligados à cadeia. A tecnologia permite ampliar o portfólio com produtos de nicho, como queijos especiais de mofo azul, que atraem canais de maior valor. ",
+    "produtoImpactado": "Queijo",
+    "unidadeMedida": "kg/ha/ano",
+    "cenarioComparacao": "Ausência parcial ou total da atividade",
+    "descricaoCenario": "O cenário de comparação representa, de forma objetiva, a situação pré‑adoção da tecnologia EPAMIG ILCT para produção de queijo de mofo azul no Brasil, marcada por um mercado restrito, com apenas cerca de quatro indústrias detendo o conhecimento técnico e a capacidade de produção, o que tornava o produto raro e de difícil acesso ao consumidor. Nesse contexto, o ILCT foi fundamental para estudar e divulgar as técnicas de fabricação, preenchendo a lacuna de capacitação na cadeia produtiva. Esse cenário é a melhor referência para a situação sem adoção da tecnologia EPAMIG porque mostra, de forma clara, a limitação de oferta, a alta dependência de poucas empresas e a ausência de padrões acessíveis, em contraste com a realidade atual, em que praticamente todos os supermercados de bairro comercializam o queijo de mofo azul, evidenciando o impacto da tecnologia na ampliação da oferta, na redução de raridade e na democratização do acesso ao consumidor final."
+  }
+}
