@@ -1,0 +1,53 @@
+{
+  "tecnologia": "Cultivar de café Topázio MG 1190",
+  "data_transmissao": "2026-04-08T21:54:32.621Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Epamig Sul",
+    "campoExperimental": "Campos Experimentais de São Sebastião do Paraíso, Machado e Três Pontas ",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "Cultivar de café arábica, fruto amarelo, responsiva a colheita mecanizada, ampla adaptação à cafeicultura do estado, porém suscetível a ferrugem.",
+    "anoInicio": "1980",
+    "anoDisponibilizacao": "1994",
+    "anoAdocao": "2000",
+    "parcerias": "IAC, UFLA e  UFV ",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "São Paulo, Goiás, Bahia",
+    "publicosBeneficiados": "Produtores rurais",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Viveiro Vale Verde",
+        "tipo": "Produtor de semente",
+        "municipio": "Patrocínio",
+        "nomeContato": "Paulo Almeida",
+        "telefone": "34991678207"
+      },
+      {
+        "estabelecimento": "Fazenda em Monte Carmelo",
+        "tipo": "Propriedade Rural",
+        "municipio": "Monte Carmelo",
+        "nomeContato": "Francisco Sergio",
+        "telefone": "34 999846169"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade"
+    ],
+    "descricaoImpacto": "A tecnologia tem contribuído para o aumento da produtividade nos locais em que a cultivar se mostra adaptada. Maior impacto consiste em ser mais uma cultivar para compor o portifólio da fazenda permitindo o escalonamento da colheita, melhoria dos processos produtivos e  redução de custo.",
+    "produtoImpactado": "Café",
+    "unidadeMedida": "sacas/ha/ano",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "Antes do desenvolvimento da cultivar os agricultores plantavam basicamente as cultivares do grupo Catuai e Mundo novo. Após o lançamento da cultivar topázio, novo material genético foi disponibilizado como opção em relação ao grupo existente. "
+  }
+}
