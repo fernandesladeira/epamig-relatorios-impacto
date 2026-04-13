@@ -1,0 +1,63 @@
+{
+  "tecnologia": "Sistema Irrigas",
+  "data_transmissao": "2026-04-13T20:11:00.977Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Epamig Norte",
+    "campoExperimental": "Campo Experimental de Mocambinho era o mais próximo, pois o projeto foi somente em áreas de agricultores",
+    "localDesenvolvimento": "Não se aplica"
+  },
+  "secao2": {
+    "descricao": "A tecnologia foi desenvolvida para suprir a aplicação ineficiente do manejo da irrigação, e também para contornar os menores índices de produtividade devido à não aplicação do uso racional da água. A solução consiste em estabelecer indicadores de lâmina e tempo ótimo de irrigação, considerando-se o ciclo fenológico da cultura da bananeira e a inserção desse equipamento de baixo custo para realizar o manejo da irrigação. O Irrigas é um equipamento que pode ser de grande auxílio ao agricultor no manejo diário da irrigação. Sua função básica é indicar se o solo está úmido ou seco. Na prática, vai contribuir em responder qual o momento certo de irrigar e qual a quantidade de água deve ser aplicada a cada irrigação. O sistema é um processo com tecnologia eficiente e de baixo custo, que atende especialmente à agricultura familiar, portanto, espera-se proporcionar maior eficiência na aplicação de água, destacando-se a economia de água, energia, de fertilizantes e de pesticidas usados em práticas culturais, contribuindo na redução dos impactos ambientais; e como impactos potenciais, a expectativa é de alta eficiência no manejo da irrigação, aumento da produtividade e redução de custos",
+    "anoInicio": "2022",
+    "anoDisponibilizacao": "2024",
+    "anoAdocao": "2024",
+    "parcerias": "EMATER",
+    "participacaoEpamig": "50"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Norte de Minas"
+    ],
+    "difusaoNacional": false,
+    "estadosDifusao": "",
+    "publicosBeneficiados": "Agricultores de banana do Norte de Minas Gerais, especialmente agricultores familiares, inseridos no perímetro irrigado do  Jaíba, onde todas as áreas são irrigadas, mas a maioria dos agricultores não realiza o manejo de irrigação de forma correta e eficiente, portanto, foi escolhida a cultura da banana, que é a principal na região, como alvo da implantação dessa tecnologia para contribuir no uso racional da água",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Área F5 40",
+        "tipo": "Produtor rural",
+        "municipio": "Jaíba - MG",
+        "nomeContato": "Geraldo Doutor da Cruz",
+        "telefone": "(38) 9 9879-2451"
+      },
+      {
+        "estabelecimento": "Área B4 - 4",
+        "tipo": "Produtor rural",
+        "municipio": "Jaíba - MG",
+        "nomeContato": "Sinval Garcias de Farias",
+        "telefone": ""
+      },
+      {
+        "estabelecimento": "",
+        "tipo": "",
+        "municipio": "",
+        "nomeContato": "",
+        "telefone": "(38) 9 9990-6048"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos"
+    ],
+    "descricaoImpacto": "A adoção do sistema Irrigas no perímetro irrigado do Jaíba, especialmente aos agricultores familiares que atuam com a cultura a bananeira, promove impactos econômicos positivos, pois os agricultores selecionados ainda não utilizavam uma metodologia de manejo de irrigação, portanto, seguiam uma média que aplicava um determinado tempo de irrigação. A partir deste momento inicial, o manejo passou a ser feito com o Irrigas, e, atualmente, resultados interessantes têm sido obtidos com a redução do tempo de irrigação.\nNeste caso, exemplificamos os casos de dois agricultores, inicialmente, o Sinval Garcias de Farias, que conseguiu uma redução de 34% no tempo de irrigação, pois aplicava 240 minutos (sem o Irrigas) e a passou a aplicar como tempo médio 150 minutos, utilizando a tecnologia do Irrigas; já o agricultor Geraldo Doutor da Cruz, conseguiu uma redução mais expressiva ainda, de 42%, ou seja, irrigava 120 minutos sem a aplicação da tecnologia e passou a irrigar 70 minutos com a aplicação do Irrigas. \nConsiderando a eficácia do sistema Irrigas implementado no campo, são estabelecidas taxas ótimas de redução de custos de energia nas propriedades rurais, destacando-se também a economia de água, de fertilizantes e de pesticidas usados nas práticas culturais. No entanto, o fator aumento de produtividade já é observado nas próximas colheitas, validando a aplicação eficiente da tecnologia.\n",
+    "produtoImpactado": "O principal produto impactado pela adoção da tecnologia é a bananeira",
+    "unidadeMedida": "A unidade de medida mais adequada para representar o desempenho produtivo é kilogramas por hectare (kg/ha)",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Na ausência da tecnologia EPAMIG, os agricultores adotavam um manejo convencional ineficiente baseado principalmente na indicação de um tempo médio da irrigação, mas sem qualquer aplicação de manejo, seja nos fatores solo ou no fator clima, pois com o Irrigas tem-se a aplicação de água no momento e na quantidade corretas. O manejo anterior apresenta menor eficiência na aplicação de água e maior custo de energia e também da produção. Assim, constitui a referência mais adequada para comparação, pois representa a prática utilizada antes da adoção da tecnologia."
+  }
+}
