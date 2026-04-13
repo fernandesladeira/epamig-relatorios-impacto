@@ -1,0 +1,77 @@
+{
+  "tecnologia": "Técnica de dupla poda da videira para colheita em ciclo de inverno.",
+  "data_transmissao": "2026-04-13T20:53:23.670Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Sul",
+    "campoExperimental": "Campo Experimental de Caldas - CECD",
+    "localDesenvolvimento": "Parceria com o setor produtivo – Fazenda da Fé em Três Corações, MG"
+  },
+  "secao2": {
+    "descricao": "A tecnologia foi desenvolvida para contornar o problema da baixa qualidade da uva para elaboração de vinhos finos. A solução consiste em alterar a época de colheita para o período seco (inverno) para garantir maior sanidade dos cachos e completo amadurecimento das bagas. A técnica consiste na retirada total da produção na poda tradicional e condução da planta no ciclo vegetativo. Fazer nova poda quando os ramos estiverem lignificados (jan/fev) e conduzir a planta no ciclo produtivo com a colheita no inverno seco. Na poda tradicional a uva produz no verão, época de elevada intensidade de chuvas, forte incidência de doenças e colheita precoce das uvas, sem atingir o grau de maturação adequado. A condição climática inviabiliza o cultivo da espécie Vitis vinifera para produção de vinhos tintos de qualidade. O manejo em dupla poda transfere o período de maturação e colheita das bagas para o outono/inverno, período de menor incidência de doenças e desta forma permite o avanço na maturação, com ganho na composição fenólica e aromática. Esta técnica já apresenta impactos considerados, pois demonstrou que é possível a produção de vinhos finos de elevada qualidade no sudeste brasileiro.",
+    "anoInicio": "2002",
+    "anoDisponibilizacao": "2009",
+    "anoAdocao": "2002",
+    "parcerias": "Fazenda da Fé, em Três Corações",
+    "participacaoEpamig": "60"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Norte de Minas",
+      "Jequitinhonha",
+      "Triângulo Mineiro/Alto Paranaíba",
+      "Central Mineira",
+      "Metropolitana de Belo Horizonte",
+      "Oeste de Minas",
+      "Sul/Sudoeste de Minas",
+      "Campo das Vertentes",
+      "Zona da Mata"
+    ],
+    "difusaoNacional": true,
+    "estadosDifusao": "São Paulo; Espírito Santo; Rio de Janeiro; Brasília; Bahia; Mato Grosso; Mato Grosso do Sul",
+    "publicosBeneficiados": "Vitivinicultores de pequeno e médio porte, associações de produtores, sindicatos e empresas fornecedoras de insumos para toda a cadeia produtiva, da muda ao vinho engarrafado. A maioria dos projetos pertencem a empresários de outros setores da economia, sem tradição agrícola, que iniciaram na vitivinicultura com a implantação da técnica da dupla poda e em regiões sem tradição vitícola. Projetos normalmente incluem turismo, com experiências que unem o vinho à gastronomia. Por se tratar de novas regiões produtoras, há necessidade de mão de obra qualificada e insumos, o que em alguns lugares, como no norte de Minas (Grão Mogol) já traz resultados na melhoria de renda da população.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Vinicola Stella Valentino / Vinícola Ar Puro",
+        "tipo": "Vinícola",
+        "municipio": "Andradas / Uberaba",
+        "nomeContato": "Procópio Stella / Lucas Amaral",
+        "telefone": "(34) 99987-9449 / (11) 97411-5548"
+      },
+      {
+        "estabelecimento": "Sindivinho",
+        "tipo": "Sindicato das vinícolas",
+        "municipio": "Andradas",
+        "nomeContato": "Heloisa Bertoli",
+        "telefone": "(35) 99215-3580"
+      },
+      {
+        "estabelecimento": "Vitacea Brasil",
+        "tipo": "Viveiro de mudas",
+        "municipio": "Caldas",
+        "nomeContato": "Ciniely",
+        "telefone": "(35) 99903-4726"
+      },
+      {
+        "estabelecimento": "ANPROVIN",
+        "tipo": "Associação de produtores",
+        "municipio": "Caldas",
+        "nomeContato": "Matheus Cassimiro Alves",
+        "telefone": "(31) 99296-1177"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "Expansão da produção em novas áreas e Agregação de valor:\nA adoção da técnica da dupla poda permitiu a expansão da vitivinicultura por várias regiões do sudeste brasileiro impulsionada principalmente pela qualidade dos vinhos elaborados sob este manejo. A estabilidade da condição climática principalmente em relação a baixa pluviosidade e amplitude térmica no período de maturação e colheita das uvas garante maior previsibilidade entre safras, o que não acontece nas tradicionais regiões produtoras no manejo convencional.\nAlém disso, a atividade vitivinícola impulsiona o turismo regional, sendo implantado na maior parte dos projetos, com opções de degustações e visitas guiadas, harmonizações e hospedagem, com reflexos positivos não só na cadeia produtiva da uva, mas também na sociedade, com a demanda por mão de obra qualificada no campo, na vinícola e demais setores envolvidos como serviços e insumos.",
+    "produtoImpactado": "Vinho fino",
+    "unidadeMedida": "garrafas/safra",
+    "cenarioComparacao": "Ausência parcial ou total da atividade",
+    "descricaoCenario": "Na ausência da tecnologia EPAMIG, não era viável o cultivo de uvas da espécie Vitis vinífera no sudeste. Nas tradicionais regiões produtoras do sul de Minas e Diamantina, o cultivo era restrito às cultivares americanas para elaboração de vinhos de consumo corrente (vinhos de mesa). A técnica da dupla poda viabilizou a produção de uvas viníferas e a elaboração do vinho fino com maior valor agregado. Além disso, a atividade chamou a atenção do setor produtivo com projetos implantados em regiões sem tradição vitícola."
+  }
+}
