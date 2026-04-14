@@ -1,0 +1,67 @@
+{
+  "tecnologia": "Inoculação de sementes de feijão com bactérias do genero Rizobium.",
+  "data_transmissao": "2026-04-14T11:40:46.946Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Epamig Oeste, Epamig Sul",
+    "campoExperimental": "Campo Experimental de Sertãozinho, Campo Experimental de Lambari",
+    "localDesenvolvimento": "IFTM Campus Uberaba, a tecnologia foi desenvolvida em parceria coma Universidade Federal de Lavras"
+  },
+  "secao2": {
+    "descricao": "Apesar de ser uma leguminosa, o feijoeiro-comum (Phaseolus vulgaris L.) ainda é frequentemente cultivado sem a prática da inoculação com bactérias fixadoras de nitrogênio. Diferentemente do que ocorre com a soja, os solos brasileiros possuem populações nativas de rizóbios capazes de nodular o feijoeiro; contudo, essas bactérias nem sempre apresentam alta eficiência simbiótica, o que torna a seleção de estirpes de elite uma etapa crucial. Nesse contexto, a Epamig tem desempenhado um papel fundamental ao validar o desempenho de estirpes selecionadas pela UFLA em diversos sistemas de produção de grãos. A Fixação Biológica de Nitrogênio (FBN) no feijoeiro-comum promove a sustentabilidade de forma ampla: economicamente, pela redução ou eliminação dos custos com adubos nitrogenados e da mão de obra na aplicação; ambientalmente, por diminuir a dependência de fertilizantes derivados de combustíveis fósseis (em grande parte importados pelo Brasil); e socialmente, por baratear a produção de um alimento de extrema importância para a dieta básica da população brasileira.",
+    "anoInicio": "2010",
+    "anoDisponibilizacao": "2017",
+    "anoAdocao": "2017",
+    "parcerias": "Universidade Federal de Lavras, Intituto Federal do Triângulo Mineiro, Embrapa Arroz e Feijão",
+    "participacaoEpamig": "20"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "PR, SP, BA, MT, RJ, ES",
+    "publicosBeneficiados": "A tecnologia destaca-se por sua versatilidade, sendo acessível a todos os perfis de produtores de feijão. Seja no contexto da agroecologia e da pequena propriedade, ou em grandes sistemas de produção com alto investimento, a solução é democrática e de fácil implementação.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Fazenda Liberdade",
+        "tipo": "Propriedade Rural",
+        "municipio": "Madre de Deus de Minas",
+        "nomeContato": "Claudio Issamu Okada",
+        "telefone": "(32) 99911-8986"
+      },
+      {
+        "estabelecimento": "Fazenda Reunidas MG",
+        "tipo": "Propriedade Rural",
+        "municipio": "Conceição do Rio Verde",
+        "nomeContato": "Fábio Henrique",
+        "telefone": "(35)99976-1845"
+      },
+      {
+        "estabelecimento": "Cerrado Consultoria Agrícola",
+        "tipo": "Escritório de Consultoria",
+        "municipio": "Unaí",
+        "nomeContato": "Pedro Henrique Macedo Bernardes Júnior",
+        "telefone": "(38)99991-9909"
+      },
+      {
+        "estabelecimento": "Planta Consultoria",
+        "tipo": "Escritorio de Consultoria",
+        "municipio": "Brasilia",
+        "nomeContato": "Helio Orides Dal Bello",
+        "telefone": "(61) 999755917"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Redução de custos"
+    ],
+    "descricaoImpacto": "O cultivo do feijoeiro-comum exige expressivo aporte de fertilizantes nitrogenados, cuja produção é intensiva em combustíveis fósseis e altamente dependente de importações no cenário brasileiro. Frente a isso, tecnologias que visam mitigar essa dependência revestem-se de importância estratégica. Soma-se ao custo elevado a baixa eficiência de uso do nitrogênio mineral, fortemente influenciada pela variabilidade climática e falhas de manejo, o que eleva o risco econômico da atividade. A adoção da Fixação Biológica de Nitrogênio (FBN) no feijoeiro-comum impacta positivamente a estrutura de custos, pois dispensa ou reduz as aplicações em cobertura. Isso resulta em economia de custos operacionais (combustível e mão de obra), menor exposição ao risco financeiro e maior potencial de rentabilidade líquida para o agricultor.",
+    "produtoImpactado": "grãos de feijão",
+    "unidadeMedida": "quilogramas de grãos de feijão por hectare por safra",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "A adoção dessa tecnologia possibilita a redução e, em condições específicas, até a eliminação da adubação nitrogenada mineral. No manejo convencional, a aplicação de nitrogênio variava em função da expectativa de produtividade; agora, essa demanda pode ser suprida de forma biológica, otimizando os recursos do produtor."
+  }
+}
