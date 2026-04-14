@@ -1,0 +1,53 @@
+{
+  "tecnologia": "Adaptação de tecnologia de fabricação de queijos com mofos-brancos",
+  "data_transmissao": "2026-04-14T20:07:19.250Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Instituto",
+    "nomeUnidade": "EPAMIG ILCT",
+    "campoExperimental": "MG",
+    "localDesenvolvimento": "A tecnologia foi adaptada na época."
+  },
+  "secao2": {
+    "descricao": "A tecnologia desenvolvia pela EPAMIG ILCT adapta o processo de fabricação de queijos com mofo branco para condições controladas de produção, utilizando a manipulação e o cultivo do fungo, além da criação de um microambiente favorável ao seu desenvolvimento em câmaras frias. O processo buscau garantir o crescimento adequado do mofo azul no interior do queijo, com controle de umidade, temperatura e oxigenação, favorecendo a formação das características sensoriais típicas desse tipo de queijo.\n\n",
+    "anoInicio": "1960",
+    "anoDisponibilizacao": "1970",
+    "anoAdocao": "1970",
+    "parcerias": "Como a tecnologia é antiga, não tenho como identificar as instituições parceiras.",
+    "participacaoEpamig": "50"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "A produção de queijos mofados no Brasil aparece principalmente em Minas Gerais, com casos também em São Paulo, Santa Catarina, Rio Grande do Sul e outros estados onde há laticínios especializados e produção artesanal ou de maior valor agregado. ",
+    "publicosBeneficiados": "Produtores rurais, agroindústrias de pequeno porte, empresas do setor, cooperativas e associações de produtores.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Laticínios São Vicente",
+        "tipo": "Agroindústria",
+        "municipio": "São Vicente de Minas",
+        "nomeContato": "",
+        "telefone": ""
+      },
+      {
+        "estabelecimento": "Laticínios Cruzília",
+        "tipo": "Agroindústria",
+        "municipio": "Cruzília-MG",
+        "nomeContato": "",
+        "telefone": ""
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "O impacto econômico da tecnologia pela agregação de maior valor ao queijo, em vez de vender queijos comuns a indústria passou a vender queijos especiais, como os mofados. Ao produzir um produto diferenciado, com identidade sensorial marcada (sabor, aroma e textura), o queijo de mofo branco é comercializado por preços mais elevados, resultando em maior margem de lucro por unidade produzida, o que reforça a viabilidade econômica de laticínios e de pequenos produtores ligados à cadeia. Além disso, a tecnologia permite ampliar o portfólio com produtos de nicho, como queijos especiais mofados, que atraem canais de maior valor, gerando diversificação de renda e redução da dependência de produtos de baixo valor agregado, geralmente vendido em escala.",
+    "produtoImpactado": "Queijo",
+    "unidadeMedida": "Kg/ha/ano",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "O cenário retrata, a situação pré‑adoção da tecnologia EPAMIG ILCT para produção de queijo de mofo branco no Brasil, caracterizada por um mercado restrito, com um número reduzido de indústrias produtoras detendo o conhecimento técnico e a capacidade de produção, o que tornava o produto raro e de difícil acesso ao consumidor. Nesse contexto, a produção e a divulgação de técnicas por parte do ILCT funcionaram como referência fundamental para disseminar saberes sobre formulação, maturação e controle de qualidade, preenchendo a lacuna de capacitação tecnológica na cadeia produtiva."
+  }
+}
