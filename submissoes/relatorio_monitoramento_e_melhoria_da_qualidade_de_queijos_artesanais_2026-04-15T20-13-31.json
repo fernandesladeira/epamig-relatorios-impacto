@@ -1,0 +1,64 @@
+{
+  "tecnologia": "Monitoramento e melhoria da qualidade de queijos artesanais",
+  "data_transmissao": "2026-04-15T20:13:31.458Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Instituto",
+    "nomeUnidade": "ILCT",
+    "campoExperimental": "",
+    "localDesenvolvimento": "No ILCT e 4 regiões produtoras de queijos artesanais de Minas."
+  },
+  "secao2": {
+    "descricao": "O projeto “Monitoramento e melhoria da qualidade de queijos artesanais” é uma tecnologia desenvolvida pela EPAMIG ILCT que sistematiza a caracterização físico‑química, microbiológica e sensorial de queijos artesanais, associando esses dados às condições de fabricação, leite, maturação e ambiente de produção nas propriedades rurais. A iniciativa envolve coleta periódica de amostras, análises em laboratório, feedback técnico aos produtores e capacitação em boas práticas de fabricação, com o objetivo de diagnosticar inconsistências, corrigir pontos críticos e elevar a qualidade e a padronização do produto.",
+    "anoInicio": "2021",
+    "anoDisponibilizacao": "2023",
+    "anoAdocao": "2023",
+    "parcerias": "UFJF e FAPEMIG",
+    "participacaoEpamig": "60"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Sul/Sudoeste de Minas",
+      "Campo das Vertentes"
+    ],
+    "difusaoNacional": false,
+    "estadosDifusao": "",
+    "publicosBeneficiados": "Produtores ruais.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Queijaria Artesanal Rancho Maranata",
+        "tipo": "Queijaria",
+        "municipio": "Virgínea ",
+        "nomeContato": "Henrique ",
+        "telefone": "35 9809-2807"
+      },
+      {
+        "estabelecimento": "Sítio Primavera",
+        "tipo": "Queijaria",
+        "municipio": "Lima Duarte",
+        "nomeContato": "Eliza ou Jorge",
+        "telefone": "32 9820-4251"
+      },
+      {
+        "estabelecimento": "Fazenda Santo Antônio",
+        "tipo": "Queijaria",
+        "municipio": "Alagoa",
+        "nomeContato": "Marquinhos",
+        "telefone": "35 9864-7172"
+      }
+    ],
+    "politicaPublica": null
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "O impacto econômico do projeto “Monitoramento e melhoria da qualidade de queijos artesanais” se manifesta na atividade produtiva ao elevar a qualidade, a regularidade e a valorização dos queijos artesanais típicos de Minas Gerais, como Queijo Mantiqueira de Minas, Queijo de Alagoa e QMA das regiões de Serras da Ibitipoca e Campo das Vertentes. Ao diagnosticar falhas de processamento, microbiologia e maturação e devolver orientações técnicas aos produtores, a tecnologia reduz perdas, descartes e variações de lote, aumentando o aproveitamento efetivo do leite e o retorno por unidade produzida. A melhoria contínua da qualidade reforça a posição desses queijos como produtos de origem diferenciada, com potencial para obtenção ou manutenção de selos de qualidade, indicações geográficas e reconhecimento institucional, o que se traduz em preço e rentabilidade mais elevados na comercialização. O projeto ainda fortalece cadeias produtivas locais, estimula a permanência de agricultores na atividade leiteira artesanal e amplia a atratividade econômica de regiões como Sul/Sudoeste de Minas e Campo das Vertentes, por meio de maior valor agregado, segurança sanitária e confiabilidade tecnológica apoiada pela EPAMIG.",
+    "produtoImpactado": "Queijo",
+    "unidadeMedida": "kg/ha/ano ou queijaria regulamentada ou premiação/queijaria",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "A melhor referência é a prática tradicional anteriormente utilizada. Como a tecnologia da EPAMIG é uma intervenção de melhoria sobre um modo de fazer já existente, a base de comparação mais adequada é o sistema tradicional anterior, pois ele representa exatamente a situação sem adoção da tecnologia: produção artesanal com técnicas locais, menor padronização, menor controle de qualidade e menor alcance de mercado. Esse cenário é mais apropriado porque o objetivo da avaliação é medir o ganho gerado pela EPAMIG frente ao que já era praticado pelos produtores, e não frente a outra inovação diferente, já que a atividade produtiva existe e continua sendo a mesma, apenas com melhorias tecnológicas. "
+  }
+}
