@@ -1,0 +1,55 @@
+{
+  "tecnologia": "Aproveitamento de soro para bebida láctea destinada a merenda escolar (Candi Néctar)",
+  "data_transmissao": "2026-04-15T15:01:55.497Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Instituto",
+    "nomeUnidade": "EPAMIG ILCT",
+    "campoExperimental": "",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "O Candi Nectar foi a primeira bebida láctea produzida no Brasil que deu origem a uma linha de produtos com achocolatados e bebidas lácteas fermentadas. Uma bebida láctea desenvolvida pela EPAMIG Instituto de Laticínios Cândido Tostes com foco na merenda escolar e na valorização tecnológica do soro de leite, coproduto de elevada relevância industrial. O produto se insere em uma estratégia de aproveitamento integral da matéria-prima, com potencial para reduzir perdas, aproveitar o soro de queijos e agregar valor à cadeia láctea, associando inovação de processo, sustentabilidade e uso racional de subprodutos da indústria de laticínios, ampliando a oferta de alimentos ao mercado. ",
+    "anoInicio": "1985",
+    "anoDisponibilizacao": "1985",
+    "anoAdocao": "1985",
+    "parcerias": "Governo municipal de Juiz de Fora e Governo Federal",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "Todos os estados brasileiros.",
+    "publicosBeneficiados": "Indústrias de laticínios",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Pesquisador",
+        "tipo": "Aposentado",
+        "municipio": "",
+        "nomeContato": "Sebastião Vieira",
+        "telefone": "32 9 99115 0748"
+      },
+      {
+        "estabelecimento": "Pesquisador",
+        "tipo": "Aposentado",
+        "municipio": "Juiz de Fora",
+        "nomeContato": "Braz dos Santos Neves",
+        "telefone": "32 9 9108 1936"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Redução de custos",
+      "Expansão da produção em novas áreas",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "O impacto econômico dessa tecnologia aparece na cadeia do leite principalmente pela transformação de um coproduto de baixo valor em um novo produto comercializável e que ficou popular no brasil, o que amplia a receita da indústria e melhora o aproveitamento do soro de leite. Na prática, isso reduz perdas, aumenta a eficiência do processamento e cria uma fonte adicional de faturamento para laticínios. Também há efeito na agregação de valor ao leite porque passou a oferecer uma bebida láctea com apelo nutricional e tecnológico e de baixo custo, o que permitiu melhor margem. O impacto econômico se manifestou na redistribuição de renda ao longo da cadeia, porque a tecnologia estimulou processamento local, reduziu desperdício e criou oportunidades de emprego, venda e diferenciação de produto.",
+    "produtoImpactado": "Bebida láctea produzida",
+    "unidadeMedida": "L/ha/ano",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "O cenário de comparação é o mercado de leite fluido e iogurtes tradicionais, porque tecnologia da EPAMIG entra como um produto alternativo dentro da mesma categoria de consumo, porém com menor preço, pois aproveita o soro. Nesse cenário, a comparação mais objetiva é entre a bebida desenvolvida pelo ILCT e produtos já consolidados nas gôndolas, como iogurtes e outras bebidas à base de leite, pois todos competem pelo mesmo consumidor e pelo mesmo canal de venda. Essa é a melhor referência para representar a situação sem adoção da tecnologia EPAMIG porque mostra o que aconteceria se a inovação não existisse: o mercado continuaria dependente apenas dos produtos tradicionais já estabelecidos, sem a entrada de uma opção que reaproveita soro de leite e amplia a oferta de derivados lácteos. Assim, esse cenário permite medir de forma clara o efeito da tecnologia sobre substituição parcial, diferenciação de produto e agregação de valor."
+  }
+}
