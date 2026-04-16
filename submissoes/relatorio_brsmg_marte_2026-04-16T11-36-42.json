@@ -1,0 +1,74 @@
+{
+  "tecnologia": "BRSMG Marte",
+  "data_transmissao": "2026-04-16T11:36:42.489Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG Sudeste e Sul",
+    "campoExperimental": "",
+    "localDesenvolvimento": "O desenvolvimento desta tecnologia foi realizado por meio de um convênio entre quatro instituições: EPAMIG, UFV, UFLA e Embrapa, com o objetivo de lançar novas cultivares de feijão adaptadas ao Estado de Minas Gerais. Na fração correspondente a EPAMIG desta tecnologia, para o lançamento, foram conduzidos ensaios de avaliação do desempenho em campos experimentais das Unidades Sudeste e Sul, no período de 2016 a 2018, portanto, nomear apenas um campo experimental não seria correto."
+  },
+  "secao2": {
+    "descricao": "A cultivar de feijão vermelho BRSMG Marte foi desenvolvida para atender à principal demanda dos produtores: uma arquitetura de planta ereta, adequada à colheita mecânica direta. Isso se deve ao fato de que a colheita manual ou semimecanizada limita a expansão da área cultivada, depende intensamente de mão de obra braçal e eleva substancialmente os custos. Além da arquitetura, a BRSMG Marte integra boa qualidade de grão (graúdos e brilhantes), resistência a antracnose e tolerância a mancha-angular, potencial produtivo superior a 45 sacas/ha, ciclo semiprecoce (aproximadamente 85 dias do plantio à colheita). A cultivar de feijão vermelho predominante até então, Ouro Vermelho, apresentava boa produtividade e qualidade de grãos, porém muito acamamento na colheita, que resultava em grandes perdas em caso de colheita mecânica direta, além de alta suscetibilidade a doenças. Espera-se, como impacto, aumento e estabilidade da produção, expansão de área cultivada, redução de custos operacionais e com fungicidas.",
+    "anoInicio": "2016",
+    "anoDisponibilizacao": "2018",
+    "anoAdocao": "2019",
+    "parcerias": "EPAMIG, UFV, UFLA e EMBRAPA.",
+    "participacaoEpamig": "24"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Noroeste de Minas",
+      "Sul/Sudoeste de Minas",
+      "Campo das Vertentes",
+      "Zona da Mata"
+    ],
+    "difusaoNacional": true,
+    "estadosDifusao": "PR, ES, GO",
+    "publicosBeneficiados": "Produtores de feijão em Minas Gerais, Espírito Santo e Paraná. Abrangendo agricultores familiares, médios e grandes, além de empresas produtoras de sementes.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Valiosa sementes",
+        "tipo": "Sementeira",
+        "municipio": "Nazareno - MG",
+        "nomeContato": "Não lembro o nome",
+        "telefone": "(35) 3516-0208"
+      },
+      {
+        "estabelecimento": "Sementes Campolina",
+        "tipo": "Sementeira",
+        "municipio": "Patrocínio - MG",
+        "nomeContato": "Lucimar Antônio",
+        "telefone": "(34) 9823-1972"
+      },
+      {
+        "estabelecimento": "Produtor",
+        "tipo": "Propriedade Rural",
+        "municipio": "Juiz de Fora",
+        "nomeContato": "Itamar Leite de Oliveira",
+        "telefone": "(32) 9913-0291"
+      },
+      {
+        "estabelecimento": "Produtor",
+        "tipo": "Propriedade Rural",
+        "municipio": "Goiânia - GO",
+        "nomeContato": "Augusto Pedroso de Oliveira",
+        "telefone": "(62) 9627-9414"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "A adoção da cultivar BRSMG Marte promove impactos econômicos positivos aos produtores de feijão vermelho ao possibilitar a colheita mecânica direta do feijão. A colheita manual/semimecanizada do feijão representava uma das etapas mais onerosa da produção, com custos que pode superar R$ 1.500,00 reais/ha (cerca de 20% do custo total de produção). Além disso, devido a sua tolerância as principais doenças fúngicas, é possível se estimar uma redução de 30-50% no uso de fungicidas. Como resultado, observa-se aumento e estabilidade de produtividade e redução dos custos por hectare plantado.",
+    "produtoImpactado": "Cultivar de feijão do grupo comercial vermelho",
+    "unidadeMedida": "kg/ha/ano. Unidade produtividade de grãos (kg/ha). kg/ha/ano se justifica pelo fato de esta tecnologia ter propiciado a expansão da área (ha) cultivada, consequentemente maior volume de produção.",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "Na ausência da tecnologia EPAMIG (BRSMG Marte), os produtores de feijão utilizavam a cultivar Ouro Vermelho, que não é adaptada à colheita mecânica devido à sua arquitetura de planta prostrada durante e ao final do ciclo. Essa característica resultava em grandes perdas na colheita, maior suscetibilidade a doenças fúngicas — tanto pela arquitetura da planta quanto por fatores genéticos —, maior necessidade de aplicações de fungicidas e limitação significativa na expansão de novas áreas de cultivo. Assim, constitui a referência mais adequada para comparação, pois representa a cultivar utilizada antes da adoção da tecnologia."
+  }
+}
