@@ -1,0 +1,73 @@
+{
+  "tecnologia": "Recomendação de plantas autoenraizadas de pessegueiro ‘BRS Libra’ para produção no Sul de Minas Gerais",
+  "data_transmissao": "2026-04-16T14:09:57.062Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "UNIDADE REGIONAL DO SUL DE MINAS",
+    "campoExperimental": "CAMPO EXPERIMENTAL DE MARIA DA FÉ ",
+    "localDesenvolvimento": "CAMPO EXPERIMENTAL DE MARIA DA FÉ"
+  },
+  "secao2": {
+    "descricao": "A tecnologia de recomendação de plantas autoenraizadas de pessegueiro ‘BRS Libra’ para o Sul de Minas Gerais consiste na utilização de mudas propagadas por estaquia, dispensando o uso de porta-enxertos e a prática da enxertia. A cultivar BRS Libra apresenta baixa exigência de frio (100–200 horas), maturação precoce, elevada produtividade e frutos de polpa firme, sendo adequada tanto para consumo in natura quanto para a indústria. O uso de plantas autoenraizadas permite maior uniformidade genética e fenotípica do pomar, reduzindo a variabilidade observada em mudas provenientes de sementes. Além disso, elimina problemas de incompatibilidade entre copa e porta-enxerto e simplifica o processo de produção de mudas, podendo reduzir custos. A tecnologia foi validada em condições edafoclimáticas do Sul de Minas Gerais, caracterizadas por clima de altitude com invernos amenos, demonstrando desempenho agronômico semelhante ao sistema convencional enxertado. Assim, configura-se como alternativa eficiente e adaptada para sistemas produtivos mais sustentáveis e tecnificados.",
+    "anoInicio": "2014",
+    "anoDisponibilizacao": "2017",
+    "anoAdocao": "2017",
+    "parcerias": "EPAMIG, EMBRAPA/CPACT. UFLA ",
+    "participacaoEpamig": "60"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Sul/Sudoeste de Minas",
+      "Campo das Vertentes",
+      "Zona da Mata"
+    ],
+    "difusaoNacional": true,
+    "estadosDifusao": "RS, SP",
+    "publicosBeneficiados": "Os principais beneficiários da tecnologia são produtores rurais do Sul de Minas Gerais, especialmente agricultores familiares e médios produtores, que buscam maior uniformidade e redução de custos na implantação de pomares de pessegueiro. Viveiristas também se beneficiam pela simplificação na produção de mudas, sem necessidade de enxertia. Cooperativas e associações rurais ganham com a padronização da produção e maior previsibilidade de oferta. Agroindústrias são favorecidas pela regularidade e qualidade dos frutos, adequados ao processamento. Além disso, instituições de pesquisa e extensão rural ampliam sua atuação com a difusão de sistemas produtivos mais eficientes e adaptados às condiçõe",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "CAMPO EXPERIMENTAL DE MARIA DA FÉ",
+        "tipo": "INSTITUIÇÃO DE PESQUISA",
+        "municipio": "MARIA DA FÉ ",
+        "nomeContato": "EMERSON DIAS GONÇALVES",
+        "telefone": "35991090629"
+      },
+      {
+        "estabelecimento": "UNIVESIDADE FEDERAL DE LAVRAS ",
+        "tipo": "INSTITUIÇÃO DE ENSINO ",
+        "municipio": "LAVRAS",
+        "nomeContato": "RAFAEL PIO ",
+        "telefone": "11997572419"
+      },
+      {
+        "estabelecimento": "EPAMIG",
+        "tipo": "INSTITUIÇÃO DE PESQUISA ",
+        "municipio": "SÃO JOÃO DEL REI ",
+        "nomeContato": "PAULO MARCIO NORBERTO ",
+        "telefone": "35 99266600"
+      },
+      {
+        "estabelecimento": "UFLA ",
+        "tipo": "INSTITUIÇÃO DE ENSINO ",
+        "municipio": "LAVRAS ",
+        "nomeContato": "PEDRO PECHE",
+        "telefone": "35 991621515"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Redução de custos",
+      "Expansão da produção em novas áreas",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "A adoção da tecnologia de plantas autoenraizadas de pessegueiro ‘BRS Libra’ no Sul de Minas Gerais impacta diretamente a eficiência econômica da atividade produtiva, principalmente na fase de implantação e condução dos pomares. No sistema convencional, baseado em mudas enxertadas sobre porta-enxertos oriundos de sementes, há maior variabilidade entre plantas, o que resulta em desuniformidade no crescimento, na produção e na qualidade dos frutos. Essa heterogeneidade dificulta o manejo, aumenta os custos operacionais e reduz a eficiência da colheita e da comercialização.\n\nCom o uso de plantas autoenraizadas, obtidas por estaquia, ocorre maior padronização do pomar, permitindo manejo mais uniforme, melhor planejamento das práticas culturais e maior previsibilidade da produção. Isso se traduz em redução de custos com mão de obra, especialmente em operações como poda, raleio e colheita, além de maior eficiência no uso de insumos. A eliminação da etapa de enxertia também reduz o custo de produção de mudas e o tempo necessário para formação do pomar.\n\nOutro aspecto relevante é a produtividade. Estudos indicam que plantas autoenraizadas de ‘BRS Libra’ apresentam desempenho agronômico semelhante ao sistema enxertado, mantendo níveis adequados de produção e qualidade de frutos. A uniformidade contribui para maior proporção de frutos comerciais, o que eleva a renda do produtor. Além disso, a cultivar possui baixa exigência de frio e maturação precoce, permitindo antecipação da colheita e inserção no mercado em períodos de menor oferta, o que pode resultar em melhores preços.\n\nPara agroindústrias, a regularidade no fornecimento de frutos com características homogêneas favorece o processamento e reduz perdas, aumentando a eficiência industrial. Já para cooperativas e associações, a padronização da produção facilita a organização da oferta e o acesso a mercados mais exigentes.\n\nAssim, o impacto econômico da tecnologia se manifesta na redução de custos de produção, aumento da eficiência operacional, melhoria da qualidade e padronização dos frutos e maior estabilidade da renda, contribuindo para a sustentabilidade econômica da fruticultura regional, especialmente em sistemas de base familiar.",
+    "produtoImpactado": "pêssego in natura da cultivar ‘BRS Libra’.",
+    "unidadeMedida": "Kg/Ha",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "A melhor referência para representar a situação sem adoção da tecnologia EPAMIG é o sistema convencional de produção de pessegueiro com mudas enxertadas sobre porta-enxertos obtidos de sementes (pé-franco), amplamente utilizado na região. Nesse sistema, a produção de mudas envolve enxertia, resultando em maior variabilidade genética entre plantas, desuniformidade no crescimento, na produção e na qualidade dos frutos. Além disso, podem ocorrer problemas de incompatibilidade entre copa e porta-enxerto, maior custo de produção de mudas e maior dificuldade no manejo do pomar.\nEssa referência é adequada por refletir a realidade predominante antes da introdução da tecnologia, permitindo comparação direta com o sistema de plantas autoenraizadas da ‘BRS Libra’, evidenciando ganhos em uniformidade, eficiência produtiva e redução de custos."
+  }
+}
