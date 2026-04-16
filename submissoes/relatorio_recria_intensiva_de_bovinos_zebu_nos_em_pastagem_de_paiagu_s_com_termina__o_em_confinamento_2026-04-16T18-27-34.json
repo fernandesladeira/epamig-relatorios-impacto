@@ -1,0 +1,53 @@
+{
+  "tecnologia": "Recria intensiva de bovinos zebuínos em pastagem de paiaguás com terminação em confinamento",
+  "data_transmissao": "2026-04-16T18:27:34.952Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG Oeste",
+    "campoExperimental": "Campo Experimental Getúlio Vargas",
+    "localDesenvolvimento": "Fazenda Experimental da ABCZ, Uberaba/MG"
+  },
+  "secao2": {
+    "descricao": "A tecnologia consiste na produção de carne de bovinos Zebuinos. A recria foi realizada em pastagem de capim Paiaguás, manejado em lotação rotacionada durante o periodo da seca e das águas com suplementação e a engorda/acabamento das carcaças em confinamento. Basicamente os animais iniciavam a recria com peso próximo a 225kg, apresentando ganhos de 0,553 kg/dia no período da seca (140dias) e 0,721 kg/dia durante o período das águas (140dias). No inicio do período do confinamento os bovino apresentavam 404kg com ganho de 1,563kg/dia com peso de abate de 584kg. O rendimento de carcaça foi de 56,2% gerando 21,9@/animal aos 21-22 meses no momento do abate. Foram produzidas 64,1@/ha gerando lucratividade do sistema proposto.",
+    "anoInicio": "2019",
+    "anoDisponibilizacao": "2023",
+    "anoAdocao": "2021",
+    "parcerias": "ABCZ - EPAMIG - Embrapa - UFMS - USP - Unicamp - Premix - FAZU - Ponta - UFV ",
+    "participacaoEpamig": "60"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "Sei que está sendo utilizada mais não tenho esta informação.",
+    "publicosBeneficiados": "Produtores, Técnicos, Frigorificos, Cadeia produtiva da carne.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "ABCZ",
+        "tipo": "Associação",
+        "municipio": "Uberaba",
+        "nomeContato": "Lauro Fraga",
+        "telefone": "34-991656398"
+      },
+      {
+        "estabelecimento": "Embrapa",
+        "tipo": "Empresa de Pesquisa",
+        "municipio": "Uberaba",
+        "nomeContato": "Giovana Maciel",
+        "telefone": "34-99451355"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade"
+    ],
+    "descricaoImpacto": "A tecnologia aumentou a produtividade de sistemas de produção de carne (64,1@/ha) gerando maior lucratividade por animal, por arroba produzida e po hectare. Outro fator importante eé aprodução de carcaças de animais jovens impactando na qualidade da carcaça e na remuneração desta.\n",
+    "produtoImpactado": "Cadeia de produção de carne bovina.",
+    "unidadeMedida": "kg de carne /ha; GMD pastagens; GMD Confinamento; Rendimento de carcaça; Peso da carcaça",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Na falta desta tecnologia grande parte dos sistemas de produção de carne irão continuar em sistemas com baixo utilização de tecnologias de manejo de pastagens e nutrição comprometendo a produtividade e a lucratividade."
+  }
+}
