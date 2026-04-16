@@ -1,0 +1,56 @@
+{
+  "tecnologia": "Tecnologias para criação de tilápias do Nilo em sistemas de produção em tanques rede",
+  "data_transmissao": "2026-04-16T19:01:56.351Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Unidade Centro-oeste",
+    "campoExperimental": "CEFX",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "A tecnologia de produção de tilápia em tanques-rede desenvolvida pela EPAMIG visou/a transformar a piscicultura mineira em uma atividade industrial sustentável. Historicamente, a limitação para o setor era a baixa produtividade dos sistemas escavados e o subaproveitamento dos grandes reservatórios de hidrelétricas. A solução proposta consiste no uso de gaiolas flutuantes de alta densidade, que utilizam grande volume hídrico para manter a renovação constante da água e o oxigênio ideal. \nO mecanismo baseia-se no manejo intensivo com linhagens de alto desempenho, como a tilápia GIFT, e no uso de rações extrusadas de alta conversão. O diferencial em relação às práticas antigas é a precisão técnica: o produtor monitora desde a qualidade da água até tabelas biométricas rigorosas, reduzindo desperdícios. Os resultados esperados incluem a padronização do pescado para a indústria e a redução do ciclo de engorda. O impacto potencial é a consolidação de polos econômicos, como o de Morada Nova de Minas, gerando renda e verticalizando a cadeia produtiva com a instalação de frigoríficos, transformando Minas Gerais em um dos maiores produtores nacionais de tilápia.\n",
+    "anoInicio": "2001",
+    "anoDisponibilizacao": "2006",
+    "anoAdocao": "2008",
+    "parcerias": "CODEVASF iniciou com a tecnologia semelhante um pouco antes da EPAMIG. A EPAMIG testou de desenvolveu a dela. Daí pra frente as demais Universidades (UFMG, UFLA, UFV e etc.) começaram a desenvolver suas pesquisas também com tanques-rede.   ",
+    "participacaoEpamig": "25"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Central Mineira"
+    ],
+    "difusaoNacional": false,
+    "estadosDifusao": "",
+    "publicosBeneficiados": "Os públicos beneficiados pela atuação da EPAMIG em Morada Nova de Minas incluem:\nPiscicultores de Pequeno e Médio Porte, que receberam capacitação técnica e transferência de tecnologia para otimizar o manejo e reduzir custos; Associações e Cooperativas (ex: ASPIM), que foram fortalecidas por diagnósticos produtivos que orientam a organização social e o acesso a mercados; Agroindústrias e Frigoríficos, que se beneficia pela padronização da tilápia e regularidade da oferta de matéria-prima; Fabricantes de Rações e Insumos - atendidos por pesquisas de eficiência alimentar;\nComunidade Local - Impactada pela geração de emprego e renda, consolidando o município como polo tecnológico e econômico.\n",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Coopeixe (Cooperativa dos Piscicultores do Alto São Francisco) ",
+        "tipo": "Cooperativa",
+        "municipio": "Morada Nova",
+        "nomeContato": "",
+        "telefone": ""
+      },
+      {
+        "estabelecimento": "Associação dos Piscicultores de Morada Nova de Minas (ASPIM)",
+        "tipo": "Associação / Cooperativa",
+        "municipio": "Morada Nova ",
+        "nomeContato": "",
+        "telefone": ""
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "O impacto econômico da tecnologia de tanques-rede em reservatórios como o de Três Marias aconteceu através de uma mudança estrutural na dinâmica produtiva regional, transformando uma atividade de subsistência em uma cadeia industrial de alto valor agregado. Diferente da piscicultura convencional em tanques escavados, o sistema de tanques-rede permite uma densidade de estocagem significativamente superior, o que se traduz em um uso intensivo do espelho d'água, antes sem uso, e gera uma produção em massa que viabiliza a entrada de pequenos produtores no mercado comercial. Esse fluxo de caixa constante permitiu que municípios como Morada Nova de Minas registrassem um crescimento expressivo no PIB agropecuário. Além disso, a demanda gerada pela tecnologia impulsiona setores adjacentes, como a indústria de rações, que representa a maior parte dos custos de produção, e o setor de genética, focado em alevinos de alto desempenho que garantem ganho de peso rápido. O impacto econômico torna-se ainda mais visível na verticalização da produção, onde a regularidade da oferta permitiu a instalação de modernos frigoríficos. Isso agrega valor ao produto final, permitindo que a região exporte filés processados e subprodutos em vez de apenas o peixe inteiro, retendo a riqueza localmente. Socialmente, a atividade dinamiza o mercado de trabalho ao exigir mão de obra qualificada para o manejo e processamento, promovendo a fixação do homem no campo. Por fim, a padronização tecnológica e sanitária, impulsionada pela pesquisa da EPAMIG e pela organização de cooperativas, elevou a competitividade da tilápia mineira, abrindo portas para mercados nacionais e internacionais e fortalecendo a balança comercial do agronegócio no Estado.",
+    "produtoImpactado": "Peixes, filés de tilápias, nuggets de peixes ",
+    "unidadeMedida": "ton/ano ou kg/m³",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "Sem a tecnologia da EPAMIG, a produção em Morada Nova de Minas baseava-se na pesca extrativista e em tanques escavados de baixa densidade. Utilizavam-se técnicas de manejo rudimentares, com alimentação irregular e ausência de controle biométrico, o que resultava em produtividade restrita a menos de 2 kg/m³ e peixes sem padronização para o mercado industrial.\nAs principais diferenças residem na escala e eficiência. A tecnologia de tanques-rede permitiu densidades superiores a 60 kg/m³, reduziu o ciclo de engorda e otimizou o uso de rações através de tabelas nutricionais precisas. Enquanto o sistema antigo era de subsistência e alto desperdício, a inovação introduziu a previsibilidade de safra e a qualidade exigida pelos frigoríficos. Este cenário é a melhor base de comparação pois reflete a realidade histórica da região, evidenciando como a transição do manejo extensivo para o intensivo foi o fator determinante para transformar o município no maior polo de tilapicultura de Minas Gerais."
+  }
+}
