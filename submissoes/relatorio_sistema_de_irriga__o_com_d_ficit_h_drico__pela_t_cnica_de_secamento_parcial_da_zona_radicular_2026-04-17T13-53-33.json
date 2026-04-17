@@ -1,0 +1,57 @@
+{
+  "tecnologia": "Sistema de irrigação com déficit hídrico, pela técnica de secamento parcial da zona radicular",
+  "data_transmissao": "2026-04-17T13:53:33.196Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Epamig Norte",
+    "campoExperimental": "Campo Experimental de Mocambinho e Campo Experimental do Gorutuba",
+    "localDesenvolvimento": "Não se aplica"
+  },
+  "secao2": {
+    "descricao": "A tecnologia foi desenvolvida para suprir a dificuldade dos produtores rurais em aplicar um manejo da irrigação eficiente na cultura da bananeira. No entanto, consiste em um sistema de irrigação e na aplicação da técnica de secamento parcial da zona radicular, com a irrigação lateralmente alternada, e diferentes frequências de alternância. O sistema de irrigação com microjatos difusores aplica a alternância do lado da irrigação a cada três dias, ativando um mecanismo fisiológico que mantém a umidade no solo por um período do dia mais prolongado, e reduz o fechamento dos estômatos das folhas e proporciona redução na evaporação da água e diminuição de até 50% na lâmina de irrigação. As práticas convencionais consideram 100% da evapotranspiração para cálculo da lâmina de irrigação. Como resultados, esta tecnologia apresenta maior eficiência no uso racional da água, considerando um sistema de irrigação não tradicional, mas de baixo custo e eficiência comprovada, proporcionando bons índices de produtividade na bananeira. E no que diz respeito aos impactos potenciais, têm-se a estabilidade e aumento da produtividade, uso racional da água e redução de insumos como água e energia.",
+    "anoInicio": "2019",
+    "anoDisponibilizacao": "2025",
+    "anoAdocao": "2025",
+    "parcerias": "EMBRAPA Mandioca e Fruticultura",
+    "participacaoEpamig": "55"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Norte de Minas"
+    ],
+    "difusaoNacional": false,
+    "estadosDifusao": "",
+    "publicosBeneficiados": "Produtores de banana e Empresas de irrigação, distribuídos em diferentes partes do Norte de Minas, onde todas as áreas são irrigadas, mas a maioria dos produtores não realizam qualquer tipo de estratégia de irrigação visando o uso racional da água, com sistemas comprovadamente eficientes, portanto, como a cultura da bananeira é a principal da região, ela foi objeto deste estudo",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Campezza Irrigação e Equipamentos",
+        "tipo": "Empresa Privada",
+        "municipio": "Montes Claros - MG",
+        "nomeContato": "Moisés",
+        "telefone": "(38) 3224-3040"
+      },
+      {
+        "estabelecimento": "Alpa Agrícola",
+        "tipo": "Produtor rural",
+        "municipio": "Jaíba - MG",
+        "nomeContato": "Sidney",
+        "telefone": "(34) 9 9989-2036"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "A adoção de um sistema de irrigação e de uma estratégia de irrigação que visa o uso racional da água, como a técnica de secamento parcial da zona radicular, demonstra impactos positivos econômicos, principalmente com a cultura da bananeira, que foi objeto do estudo da pesquisa. Relacionado ao sistema da irrigação, houve uma avaliação comparativa entre os microjatos difusores e o gotejamento, tradicionalmente aplicado nas culturas, no entanto, os microjatos proporcionam resultados mais expressivos na produtividade, com índices acima dos comumente encontrados no mercado da bananicultura, e ainda adicionando a técnica de secamento parcial, reduzindo a lâmina de irrigação até 50% da evapotranspiração diária. Deve-se destacar também que os microjatos se mostraram eficientes e apresentam um custo baixo para aquisição.\nAnalisando isoladamente a técnica de secamento parcial empregada no estudo da tecnologia, além de proporcionar uma economia hídrica pela quantidade de água aplicada para produzir 1 quilograma da fruta, ao longo de um ciclo da cultura, termo denominado “pegada hídrica”, resulta em uma viabilidade econômica, no caso financeira, expressiva, pois atinge um ganho de quase R$ 2700 por hectare, com a aplicação do secamento parcial, isso após o ciclo de produção já consolidado da bananeira, o terceiro, comparativamente ao manejo tradicional, e considerando economia de água e de energia e aumento da produtividade ao longo dos ciclos para obtenção da viabilidade econômica.\n",
+    "produtoImpactado": "O principal produto impactado pela adoção da tecnologia é a bananeira",
+    "unidadeMedida": "Destaco duas unidades de medida para representar a tecnologia, inicialmente a economia de água em litros por quilograma (L/kg), a chamada “pegada hídrica” e também a produtividade da bananeira, em toneladas por hectare (t ha-1)",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Na ausência da tecnologia EPAMIG, geralmente se adotava o manejo tradicional considerando 100% da evapotranspiração, no entanto, sem qualquer redução na aplicação da água, no entanto, com a aplicação da tecnologia da EPAMIG, é obtido até 50% de redução da aplicação de água, com resultados consequentes da economia de energia e bons índices de produtividade, então o manejo tradicional, principalmente pela menor eficiência empregada, se constitui a referência mais adequada para comparação, pois representa a prática utilizada antes da adoção da tecnologia"
+  }
+}
