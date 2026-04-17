@@ -1,0 +1,68 @@
+{
+  "tecnologia": "Recomendação de porta-enxertos para a viticultura no Sul de Minas e Serra da Mantiqueira",
+  "data_transmissao": "2026-04-17T12:32:10.874Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG SUL",
+    "campoExperimental": "CAMPO EXPERIMENTAL DE CALDAS (CECD)",
+    "localDesenvolvimento": "O vinhedo experimental foi instalado e conduzido na Vinícola Casa Geraldo - Andradas"
+  },
+  "secao2": {
+    "descricao": "A tecnologia foi desenvolvida com o objetivo de aumentar a produção dos vinhedos sob dupla poda, principalmente das variedades com baixo desempenho como as clássicas Merlot e Cabernet Sauvignon, além de beneficiar também a Syrah, variedade que se destacou na vitivinicultura de  inverno. Apesar da Merlot e Cabernet Sauvingon serem vigorosas no cultivo de verão, como apenas uma poda anual, quando manejadas sob dupla poda, apresentaram baixo vigor e produtividade durante o outono-inverno, quando enxertadas sobre o tradicional 1103Paulsen.\nPorta-enxertos como o IAC 766, SO4, Gravesac e Rupestris du lot elevaram a produtividade das videiras, sem afetar a qualidade da uva. Espera-se que a adoção desses porta-enxertos nos vinhedos de inverno aumentem a rentabilidade dos vitivinicultores.\n",
+    "anoInicio": "2015",
+    "anoDisponibilizacao": "2020",
+    "anoAdocao": "2020",
+    "parcerias": "Vinícola Casa Geraldo; Viveiro Vitácea Brasil; FAPEMIG",
+    "participacaoEpamig": "60"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "RJ, SP, ES, MG, BA, GO, DF, MS, MT",
+    "publicosBeneficiados": "Vitivinicultores, de médio e grande porte, de Minas Gerais e de outros estados do Sudeste e Centro-Oeste e Bahia. Os beneficiários estão inseridos na vitivinicultura de inverno, em que os vinhedos são submetidos a duas podas anuais (dupla poda), com apenas uma colheita anual, destinada à elaboração dos vinhos de colheita de inverno.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Viveiro Vitacea Brasil",
+        "tipo": "viveiro de mudas",
+        "municipio": "Caldas",
+        "nomeContato": "Raissa Lima",
+        "telefone": "35 9 9910 8197"
+      },
+      {
+        "estabelecimento": "Floeno Consultoria",
+        "tipo": "Empresa de consultoria em vitivinicultura",
+        "municipio": "Franca",
+        "nomeContato": "Frederico Novelli",
+        "telefone": "35 9 9804 1024"
+      },
+      {
+        "estabelecimento": "Vinicola Casa Geraldo",
+        "tipo": "Vinícola",
+        "municipio": "Andradas",
+        "nomeContato": "Luis Henrique Marcon",
+        "telefone": "35 9 9945 1601"
+      },
+      {
+        "estabelecimento": "In Vitis & Enologia",
+        "tipo": "Empresa de Consultoria",
+        "municipio": "Diamantina",
+        "nomeContato": "Matheus Meira",
+        "telefone": "38 9 9924 3784"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "A enxertia da Merlot, Cabernet Sauvignon e Syrah sobre os porá-enxertos indicados pela EPAMIG promove um aumento significativo na produtividade dos vinhedos de inverno. Esse aumento na produção das videiras pode compensar o alto custo de produção dos vinhos de colheita de inverno, devido à realização de duas podas anuais, com dois ciclos de crescimento e apenas uma colheita anual. O incremento da produção nos vinhedos vai ter impacto na quantidade de vinhos produzidos, proporcionando maior rentabilidade do setor vitivinícola.",
+    "produtoImpactado": "uva e vinho",
+    "unidadeMedida": "kg/ha/ano; litros/ano",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "Nos últimos vinte anos, a viticultura de inverno era caracterizada pelo uso predominante de vinhedos enxertados sobre o porta-enxerto tradicional 1103P. Essa prática era a norma na maioria dos vinhedos sob dupla poda, mas revelava limitações para as outras cultivares de alto valor comercial como Merlot e Cabernet Sauvignon. A comparação com esse período é considerada a mais adequada por se tratar de um sistema de cultivo ainda recente, onde o protagonismo era quase exclusivo da variedade Syrah e Sauvignon Blanc, pois apresentavam maior vigor e produtividade sob dupla poda, recebendo maior incentivo na instalação dos novos vinhedos. Em contrapartida, as variedades Merlot e Cabernet Sauvignon,  altamente demandadas pelo mercado vinícola, enfrentavam sérios desafios nesse sistema tradicional, manifestando um baixo vigor vegetativo e produtivo, além de alternância de produção,  o que evidencia a necessidade das inovações tecnológicas atuais para viabilizar o cultivo dessas uvas nobres."
+  }
+}
