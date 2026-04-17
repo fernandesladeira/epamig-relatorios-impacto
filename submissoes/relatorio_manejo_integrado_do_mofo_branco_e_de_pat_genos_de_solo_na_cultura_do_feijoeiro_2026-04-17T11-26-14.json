@@ -1,0 +1,60 @@
+{
+  "tecnologia": "Manejo integrado do mofo-branco e de patógenos de solo na cultura do feijoeiro",
+  "data_transmissao": "2026-04-17T11:26:14.207Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG Sudeste",
+    "campoExperimental": "CEVP",
+    "localDesenvolvimento": "-"
+  },
+  "secao2": {
+    "descricao": "A tecnologia integra estratégias para mitigar a pressão e disseminação de patógenos de solo no feijão, focando no mofo-branco, na murcha-de-fusarium e nas podridões radiculares. Essas doenças causam perdas severas de produtividade e elevam custos operacionais, e são praticamente impossíveis de serem erradicadas após a infestação da área. No entanto, o manejo integrado viabiliza a convivência produtiva com esses patógenos, abrangendo desde o plantio direto e rotação de culturas até o uso de cultivares tolerantes, redução da densidade de plantas e adubação nitrogenada, e manejo da irrigação. O sistema inclui ainda descompactação do solo, limpeza de implementos e o uso de fungicidas biológicos e químicos para reduzir a pressão de inóculo e interromper o ciclo das doenças. Frente ao manejo convencional, focado apenas na intervenção química, esta abordagem demonstra maior eficiência fitossanitária e promove a sustentabilidade do sistema produtivo. Como resultado, espera-se alcançar maior estabilidade de safra, incremento na produtividade e redução significativa nos custos totais de produção.",
+    "anoInicio": "2007",
+    "anoDisponibilizacao": "2011",
+    "anoAdocao": "2012",
+    "parcerias": "UFV",
+    "participacaoEpamig": "20"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Noroeste de Minas",
+      "Sul/Sudoeste de Minas",
+      "Campo das Vertentes",
+      "Zona da Mata"
+    ],
+    "difusaoNacional": true,
+    "estadosDifusao": "GO",
+    "publicosBeneficiados": "Produtores de feijão em Minas Gerais e Goiás, abrangendo agricultores familiares, médios e grandes produtores inseridos em sistemas de produção intensivos, frequentemente irrigados e com histórico de ocorrência de doenças de solo. Os beneficiários estão inseridos em sistemas caracterizados pelo cultivo sucessivo, elevada pressão de inóculo do patógeno e necessidade de manejo fitossanitário eficiente.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Planeje - Projetos Agropecuários e Assistência Técnica Ltda",
+        "tipo": "Empresa de consultoria",
+        "municipio": "Paracatu - MG",
+        "nomeContato": "Frederico Quirino",
+        "telefone": "(38) 9961-6081"
+      },
+      {
+        "estabelecimento": "Cerrado Consultoria e Pesquisa Agrícola",
+        "tipo": "Empresa de consultoria e pesquisa",
+        "municipio": "Unaí - MG",
+        "nomeContato": "Pedro Henrique de Macedo Bernardes Júnior",
+        "telefone": ""
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "A adoção do sistema de manejo integrado do mofo-branco e de outras doenças de solo na cultura do feijoeiro gera impactos econômicos positivos ao reduzir diretamente a pressão desses patógenos nas áreas. Essas doenças exercem forte influência na produtividade da cultura e, quando não manejadas adequadamente, podem tornar a produção de feijão inviável em áreas altamente infestadas. O sistema combina diversas práticas, como plantio direto, rotação de culturas, uso de cultivares tolerantes, redução da população de plantas, descompactação do solo, manejo adequado da irrigação, redução da adubação nitrogenada e aplicação estratégica de controle biológico e químico. Essa abordagem reduz o inóculo no solo e interrompe o ciclo dos patógenos, resultando em maior produtividade, menor perda de plantas, melhor desenvolvimento da lavoura e maior estabilidade produtiva entre as safras. Adicionalmente, o manejo integrado promove redução de custos de produção, especialmente pela diminuição do número de aplicações de fungicidas e pela maior eficiência no uso de insumos. Diferentemente do manejo convencional, que se baseia predominantemente no controle químico, essa tecnologia oferece um controle mais eficiente e sustentável no curto e longo prazo, reduzindo riscos de perdas severas e aumentando a previsibilidade econômica da atividade. No conjunto, esses benefícios resultam em maior rentabilidade para o produtor e maior eficiência do sistema produtivo.",
+    "produtoImpactado": "O principal produto impactado pela adoção da tecnologia é o feijão (grãos)",
+    "unidadeMedida": "A unidade de medida mais adequada para representar o desempenho produtivo é sacas/ha/ano, permitindo a comparação entre sistemas de manejo e a avaliação dos ganhos de produtividade decorrentes da redução das doenças.",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Na ausência da tecnologia EPAMIG, os produtores utilizavam o manejo convencional, baseado predominantemente no controle químico. Esse sistema caracterizava-se por aplicações sucessivas de fungicidas ao longo do ciclo da cultura, apresentando menor eficiência e baixa sustentabilidade, especialmente no médio e longo prazo. Além disso, o uso intensivo de insumos resultava em maior custo de produção. Por representar a prática efetivamente adotada pela maioria dos produtores antes da introdução da tecnologia, o manejo convencional constitui a referência mais adequada para comparação."
+  }
+}
