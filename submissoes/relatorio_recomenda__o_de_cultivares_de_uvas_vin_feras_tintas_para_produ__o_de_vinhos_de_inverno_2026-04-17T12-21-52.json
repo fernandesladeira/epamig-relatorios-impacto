@@ -1,0 +1,64 @@
+{
+  "tecnologia": "Recomendação de cultivares de uvas viníferas tintas para produção de vinhos de inverno",
+  "data_transmissao": "2026-04-17T12:21:52.887Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG Sul",
+    "campoExperimental": "Campo Experimental de Caldas - CECD",
+    "localDesenvolvimento": "Vinhedo instalado e experimento conduzido na Vinícola Casa Geraldo"
+  },
+  "secao2": {
+    "descricao": "A tecnologia foi desenvolvida para mitigar essa concentração de vinhos elaborados com poucas cultivares de uvas tintas, com isso permitir a diversidade de estilos de vinhos, como varietais e blends entre essas cultivares. A solução consiste num conjunto de variedades adaptadas ao manejo de dupla poda, com aumento de produção e qualidade da uva e do vinho elaborado para diversificação dos vinhos tintos de colheita de inverno, permitindo assim, a diversidade de rótulos produzidos pelos vitivinicultores, atendendo as demandas de consumo do mercado. Essa tecnologia permite movimentar um mercado que estava concentrado por rótulos de apenas uma cultivar e os impactos potenciais estão relacionados com a diversificação de estilos e rótulos de vinhos, aumento da produção, induzir o aumento de demanda de consumo pela variedade de vinhos ofertados, permissão da adaptabilidade de cultivares ao manejo e as diferentes regiões de cultivo.",
+    "anoInicio": "2015",
+    "anoDisponibilizacao": "2020",
+    "anoAdocao": "2020",
+    "parcerias": "FAPEMIG, Vinícola Casa Geraldo e Viveiro Vitácea Brasil",
+    "participacaoEpamig": "68"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Norte de Minas",
+      "Jequitinhonha",
+      "Triângulo Mineiro/Alto Paranaíba",
+      "Metropolitana de Belo Horizonte",
+      "Oeste de Minas",
+      "Sul/Sudoeste de Minas",
+      "Campo das Vertentes",
+      "Zona da Mata"
+    ],
+    "difusaoNacional": true,
+    "estadosDifusao": "SP, RJ, ES, GO, MT, MS, DF e BA",
+    "publicosBeneficiados": "Vitivinicultores em todos os estados do Sudeste e Centro-Oeste e municípios da Bahia, abrangendo portes de médios e grandes produtores de vinho de colheita de inverno, com vinhedos implantados majoritariamente com a cultivar Syrah para elaboração de vinhos tintos.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Vinícola Casa Geraldo",
+        "tipo": "Produtor rural e vinícola",
+        "municipio": "Andradas-MG",
+        "nomeContato": "Luiz Henrique Marcon",
+        "telefone": "(35) 9945-1601"
+      },
+      {
+        "estabelecimento": "Vinícola Bárbara Eliodora",
+        "tipo": "Produtor rural e Vinícola",
+        "municipio": "São Gonçalo do Sapucaí",
+        "nomeContato": "Guilherme Bernardes Filho",
+        "telefone": "(11) 982315771"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Expansão da produção em novas áreas",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "À medida que novas cultivares são avaliadas e sua adaptabilidade ao manejo de dupla poda é determinado, os vitivinicultores podem optar por cultivares que interesse particular, que geram vinhos com estilos e perfis aromáticos diferentes, que atraem o público consumidor, que em vez de provar apenas um ou dois rótulos, pode consumir uma diversidade de vinhos. Essa variedade na oferta de vinhos gera impactos econômicos em função de produtividades e produtos diferenciados, além de atratividade de novos consumidores, aumentando e movimentando toda a cadeia do enoturismo. Novas cultivares se traduz em expansão de novos vinhedos e na formação de uma rota regional de turismos, movimentando, cadeias de hotelaria e restaurantes, além do vinho.",
+    "produtoImpactado": "Os principais produtos impactados pela adoção da tecnologia são a uva e vinhos.",
+    "unidadeMedida": "A unidade de medida mais adequada para representar o desempenho produtivo são o volume de vinhos produzidos (L/ano) e garrafas comercializadas(und/ano).",
+    "cenarioComparacao": "Ausência parcial ou total da atividade",
+    "descricaoCenario": "Na ausência da tecnologia EPAMIG, os produtores adotavam apenas as cultivares inicialmente testadas e validas, com comprovação da produtividade e do vinho produzidos. Poucos produtores têm a possibilidade, seja ela econômica ou temporal, de avaliar cultivares de interesse numa margem de 5 a 10 anos para depois verificar o potencial da cultivar e ampliar seu cultivo. Por se tratar para o produtor de uma “aposta”, que demanda tempo e alto investimento, sem a tecnologia gerada pela EPAMIG os produtores em sua grande maioria iriam permanecer produzindo a “Syrah” para elaboração de vinhos tintos ou aguardar resultados empíricos de outros produtores."
+  }
+}
