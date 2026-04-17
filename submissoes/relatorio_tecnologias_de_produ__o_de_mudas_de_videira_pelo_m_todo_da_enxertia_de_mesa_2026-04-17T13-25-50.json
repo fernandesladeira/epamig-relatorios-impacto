@@ -1,0 +1,54 @@
+{
+  "tecnologia": "Tecnologias de produção de mudas de videira pelo método da enxertia de mesa",
+  "data_transmissao": "2026-04-17T13:25:50.181Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG SUL",
+    "campoExperimental": "CAMPO EXPERIMENTAL DE CALDAS (CECD)",
+    "localDesenvolvimento": "NÃO SE APLICA"
+  },
+  "secao2": {
+    "descricao": "A tecnologia foi desenvolvida para melhorar a eficiência na enxertia da videira e elevar o padrão fitossanitário das mudas enxertadas, fatores responsáveis por falhas no estande de plantio e pela disseminação de doenças. A solução consiste na técnica de enxertia de mesa com forçagem, que integra a união mecânica entre copa e porta-enxerto em ambiente protegido com o controle rigoroso de temperatura e umidade. O sistema atua na aceleração da cicatrização vascular (soldadura) e na proteção contra patógenos externos antes que a muda seja levada ao campo. Em relação às enxertias tradicionais, baseadas na enxertia direta sobre porta-enxertos plantados no ano anterior, e sujeitas a intempéries, a tecnologia apresenta maior índice de pegamento, garantia de sanidade certificada, além de maior uniformidade e rapidez na formação do vinhedo. Espera-se, como impacto, maior longevidade dos vinhedos, aumento da produtividade precoce e redução significativa nos custos com a reposição de mudas.",
+    "anoInicio": "1999",
+    "anoDisponibilizacao": "2000",
+    "anoAdocao": "2002",
+    "parcerias": "FAPEMIG",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": " MG, SP, RJ, ES, SC,RS, PR, GO, DF,MT, MS, BA, PE",
+    "publicosBeneficiados": "A tecnologia de enxertia de mesa com forçagem beneficia diretamente vitivinicultores e viveiristas de pequeno, médio e grande porte. Este público integra o segmento produtivo da vitivinicultura de verão e de inverno, atuando tanto na produção de uvas para consumo in natura quanto para o processamento de sucos e vinhos. A técnica é aplicada no contexto de modernização dos vinhedos, permitindo que os produtores obtenham mudas de qualidade com soldadura perfeita e sanidade superior. O resultado é maior eficiência produtiva e padronização das plantas, atendendo às demandas de competitividade do setor vitivinícola nacional",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Viveiro Origens",
+        "tipo": "viveiro de mudas de videira",
+        "municipio": "Três Barras - SC",
+        "nomeContato": "Frederico Novelli",
+        "telefone": "35 9 9804 1024"
+      },
+      {
+        "estabelecimento": "Viveiro Vitacea Brasil",
+        "tipo": "viveiro de mudas de videira",
+        "municipio": "caldas - MG",
+        "nomeContato": "Raíssa Lima",
+        "telefone": "35 9 9910 8197"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "O impacto econômico da tecnologia de enxertia de mesa com forçagem manifesta-se de forma estrutural na viticultura, transformando o investimento inicial em rentabilidade sustentável por meio de quatro benefícios. Primeiramente, o incremento de produtividade, observado desde a implantação do vinhedo. Ao garantir mudas com soldadura vascular perfeita e alto padrão fitossanitário, a tecnologia assegura um estande de plantio uniforme e vigoroso. Isso permite que o ciclo produtivo se inicie de forma mais precoce e com colheitas mais volumosas, otimizando o retorno sobre o capital investido.\nDiretamente associada à produtividade, a redução de custos operacionais torna-se um diferencial competitivo. O método tradicional de enxertia no campo apresenta altos índices de mortalidade e falhas de pegamento devido às intempéries, o que exige gastos sucessivos com replantio, mão de obra extra e tratamentos defensivos intensos. Com a enxertia em ambiente protegido, esses riscos são mitigados, eliminando desperdícios e reduzindo drasticamente as despesas com a reposição de mudas e manutenção de plantas improdutivas.\nA tecnologia também atua como um catalisador para a expansão da produção em novas áreas. A garantia de sanidade certificada minimiza a introdução de patógenos em solos virgens ou áreas de renovação, reduzindo o risco biológico e conferindo maior segurança para o viticultor desbravar novas fronteiras agrícolas. Por fim, a agregação de valor é o impacto final na cadeia. Vinhedos estabelecidos com esta tecnologia apresentam maior longevidade e produzem frutos de qualidade superior e maturação homogênea. Tais atributos são essenciais para atender aos mercados mais exigentes e de maior valor agregado, posicionando o produtor em um patamar de alta competitividade e excelência técnica no agronegócio moderno.\n",
+    "produtoImpactado": "mudas enxertadas ",
+    "unidadeMedida": "nº mudas enxertadas/ano",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "O cenário de comparação baseia-se na enxertia direta de campo, prática padrão utilizada antes da inovação da EPAMIG. Nesse sistema, a enxertia de garfagem era realizada sobre porta-enxertos enraizados diretamente, plantados com estacas lisas no ano anterior. Este modelo é a melhor referência por representar a realidade operacional e os gargalos históricos do setor vitícola.\nA comparação evidencia as limitações do método convencional: baixos índices de pegamento das estacas lisas, elevada heterogeneidade das plantas e exposição direta às intempéries, o que resultava em falhas no estande e atraso na formação do vinhedo. Ao utilizar esse cenário como base, demonstra-se como a tecnologia EPAMIG soluciona deficiências reais, substituindo um sistema de alto risco e manejo complexo por um processo em ambiente protegido que garante uniformidade, rapidez e segurança fitossanitária na formação dos vinhedos\n"
+  }
+}
