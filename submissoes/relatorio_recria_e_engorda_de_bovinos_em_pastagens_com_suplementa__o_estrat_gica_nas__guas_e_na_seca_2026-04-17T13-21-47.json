@@ -1,0 +1,54 @@
+{
+  "tecnologia": "Recria e engorda de bovinos em pastagens com suplementação estratégica nas águas e na seca",
+  "data_transmissao": "2026-04-17T13:21:47.309Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG Oeste",
+    "campoExperimental": "Campo Experimental Getúlio Vargas",
+    "localDesenvolvimento": "Parceria com a FAZU - Uberaba/MG"
+  },
+  "secao2": {
+    "descricao": "A tecnologia consiste na produção de carne de bovinos oriundos de cruzamento industrial. A recria foi realizada em pastagem de capim Braquiarão, manejado em lotação rotacionada durante o periodo das águas com suplementação. A terminação foi realizada em três sistemas: pastejo rotacionado com suplementação; pastejo diferido em braquiarão com suplementação e em confinamento. Os animais iniciavam a recria no período das águas (150 dias) com peso próximo a 186kg (7 meses de idade), apresentando ganhos de 0,8 kg/dia e 1,1kg/dia e peso final deste período de 306kg e 351, respectivamente para os animais sem suplementação e suplementados. Na fase de terminação os animais apresentaram ganhos de 1,18 e 1,17; peso final do período de 472kg (18,1@) e 516kg (19,8@) aos16,7 meses de idade, respectivamente para os animais sem suplementação e suplementados nas águas, submetidos as três estratégias de terminação. O confinamento proporcionou os maiores ganho e peso final e os tratamentos de terminação em pastagens apresentaram o mesmo desempenho e peso final. Estes resultados possibilitaram de 1.350kg e 2.000kg de ganho/ha/ano  para os animais sem suplementação e suplementados nas águas e terminados",
+    "anoInicio": "2000",
+    "anoDisponibilizacao": "2010",
+    "anoAdocao": "2004",
+    "parcerias": "FAZU; FCAV/UNESP",
+    "participacaoEpamig": "60"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "Sei que está sendo utilizada mais não tenho esta informação.",
+    "publicosBeneficiados": "Produtores, Técnicos, Frigorificos, Cadeia produtiva da carne.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Embrapa",
+        "tipo": "Pesquisa",
+        "municipio": "Uberaba/MG",
+        "nomeContato": "Giovana Maciel",
+        "telefone": "34-99451355"
+      },
+      {
+        "estabelecimento": "EPAMIG",
+        "tipo": "Pesquisa",
+        "municipio": "Uberaba/MG",
+        "nomeContato": "LEONARDO DE OLIVEIRA FERNANDES",
+        "telefone": "3433177629"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos"
+    ],
+    "descricaoImpacto": "A tecnologia aumentou a produtividade de sistemas de produção de carne gerando maior\nlucratividade por animal, por arroba produzida e por hectare. Outro fator importante é aprodução de\ncarcaças de animais jovens impactando na qualidade da carcaça e na remuneração desta.",
+    "produtoImpactado": "Cadeia de produção de carne bovina.",
+    "unidadeMedida": "kg de carne /ha; GMD pastagens; GMD Confiname",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Na falta desta tecnologia grande parte dos sistemas de produção de carne irão continuar em sistemas combaixo utilização de tecnologias de manejo de pastagens e nutrição comprometendo a produtividade e alucratividade."
+  }
+}
