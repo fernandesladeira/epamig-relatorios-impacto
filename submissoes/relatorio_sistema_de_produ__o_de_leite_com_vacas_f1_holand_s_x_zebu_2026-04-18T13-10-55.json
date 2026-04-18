@@ -1,0 +1,64 @@
+{
+  "tecnologia": "Sistema de produção de leite com vacas F1 Holandês x Zebu",
+  "data_transmissao": "2026-04-18T13:10:55.819Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG - Centro Oeste",
+    "campoExperimental": "Campo Experimental de Felixlândia  - Felixlândia - MG",
+    "localDesenvolvimento": "Não se aplica"
+  },
+  "secao2": {
+    "descricao": "A pecuária leiteira mineira iniciou o milênio desafiada pela baixa eficiência produtiva. Para reverter esse quadro, a EPAMIG instituiu o programa \"Organização e Gestão da Pecuária Bovina\", focado em criar modelos que fossem, a um só tempo, simples e altamente eficazes. O pilar dessa iniciativa foi a promoção do sistema de produção a pasto com vacas F1 Holandês x Zebu. Ao unir a resistência do Zebu à produtividade do Holandês, o programa viabilizou um animal de baixo custo e alta performance, beneficiado por uma heterose de 100%. Essa superioridade genética reflete-se não apenas no balde, mas também na reprodução e na versatilidade para o mercado de corte, ampliando a sustentabilidade financeira da propriedade rural. Os resultados práticos confirmam o sucesso da estratégia: nas últimas décadas, Minas Gerais deu um salto produtivo expressivo. Dados da EPAMIG coletados entre 2002 e 2011 revelam que, enquanto a média de produção estadual estagnava em 5,21 kg/dia, os rebanhos F1 HZ sob manejo estratégico entregavam mais de 10 kg/dia, dobrando a produtividade média da época.",
+    "anoInicio": "2000",
+    "anoDisponibilizacao": "2003",
+    "anoAdocao": "2003",
+    "parcerias": "Embrapa Gado de Leite, Escola de Veterinária da UFMG, Departamento de Zootecnia da Universidade Federal de Viçosa, Departamento de Ciências Agrárias da Universidade Estadual de Montes Claros – Unimontes, Secretária de Estado da Agricultura, Pecuária e Abastecimento, Emater",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Noroeste de Minas",
+      "Norte de Minas",
+      "Jequitinhonha",
+      "Vale do Mucuri",
+      "Triângulo Mineiro/Alto Paranaíba",
+      "Central Mineira",
+      "Vale do Rio Doce",
+      "Oeste de Minas",
+      "Zona da Mata"
+    ],
+    "difusaoNacional": true,
+    "estadosDifusao": "Espírito Santo, Goiás ",
+    "publicosBeneficiados": "O público-alvo é composto por produtores de leite de Minas Gerais, desde a agricultura familiar até médios e grandes pecuaristas. O sistema de produção predominante baseia-se no pastejo durante o período chuvoso e na suplementação volumosa na entressafra. Contudo, as propriedades ainda registram produtividade média a baixa, refletindo sistemas de produção com baixo aporte tecnológico",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Fazenda Rancho Fundo",
+        "tipo": "Propriedade Rural",
+        "municipio": "Capitão Enéas - MG",
+        "nomeContato": "João Newton Pereira Lopes",
+        "telefone": "(38) 9 9985-1283"
+      },
+      {
+        "estabelecimento": "Fazenda Villa Santa Maria",
+        "tipo": "Propriedade Rural",
+        "municipio": "Francisco Sá - MG",
+        "nomeContato": "Eduardo Pimenta Peres",
+        "telefone": "(38) 9 8415-1607"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Redução de custos"
+    ],
+    "descricaoImpacto": "A adoção do sistema de produção de leite com vacas F1 HZ (Holandês x Zebu) promove impactos econômicos positivos ao elevar a produtividade individual, a eficiência reprodutiva e a otimização do uso de pastagens. Por serem animais adaptados a condições adversas — característica decorrente da alta heterose —, os desafios típicos da atividade são superados com maior facilidade. O sistema baseia-se em práticas simples e de baixo custo, o que reflete diretamente na lucratividade do negócio. Diferentemente dos modelos convencionais, que utilizam animais mestiços de origem desconhecida e apresentam alta variabilidade produtiva, a tecnologia F1 HZ permite obter produções previsíveis e constantes. Além disso, a elevada eficiência reprodutiva reduz drasticamente a presença de vacas improdutivas no rebanho, otimizando o aproveitamento da estrutura produtiva. Em comparação ao uso de raças puras de origem europeia, este modelo mostra-se mais adequado à realidade das fazendas mineiras por aliar alto desempenho a um ambiente de simplicidade operacional. Outro diferencial estratégico é a versatilidade do genótipo, que funciona como um elo entre as cadeias de leite e corte, permitindo a produção de bezerros valorizados em ambos os mercados. Essa diversificação de receita, somada à produção em regime de pasto com suplementação estratégica, reduz o custo de todas as categorias do sistema e confere flexibilidade na gestão financeira. Ao equilibrar rusticidade, desempenho e baixo custo operacional, o sistema não apenas elevou os índices produtivos em Minas Gerais em mais de 260%, mas também consolidou um modelo sustentável e altamente competitivo para o produtor mineiro.",
+    "produtoImpactado": "O principal produto impactado pela adoção da tecnologia é leite in natura.",
+    "unidadeMedida": "A unidade de medida mais adequada para representar o desempenho produtivo é litros de leite por lactação,  que permite  a comparação entre vacas dos diferentes sistemas de produção, como também permite  a avaliação dos ganhos de produtividade com  uso do genótipo F1 Holandês x Zebu",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "Antes da implementação da tecnologia EPAMIG (produção de leite com vacas F1 Holandês/Zebu), a produtividade média dos sistemas tradicionais era de aproximadamente 1.100 kg por vaca/ano. O manejo convencional negligenciava o uso de genética superior, pastagens de alta qualidade, protocolos sanitários, controle de parâmetros zootécnicos e gestão de custos. A adoção do sistema EPAMIG, por outro lado, viabiliza o monitoramento rigoroso do desempenho animal e dos indicadores econômicos. Portanto, a comparação entre o cenário anterior e o posterior à aplicação da pesquisa é a estratégia mais eficaz para mensurar a evolução dos índices zootécnicos e a lucratividade do sistema."
+  }
+}
