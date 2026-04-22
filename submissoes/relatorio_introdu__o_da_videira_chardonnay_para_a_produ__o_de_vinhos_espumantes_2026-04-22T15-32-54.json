@@ -1,0 +1,56 @@
+{
+  "tecnologia": "Introdução da videira Chardonnay para a produção de vinhos espumantes",
+  "data_transmissao": "2026-04-22T15:32:54.662Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPMAIG Sul",
+    "campoExperimental": "Campo Experimental de Caldas - CECD",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "A Produção de espumantes no Brasil tem ganhado aumento e notoriedade ao longo dos anos, diversas premiações em concursos nacionais e internacionais colocam o espumante brasileiro em destaque. O Sul do Brasil já elabora a bebida a diversos anos e em Regiões de Altitude do Sudeste existe um potencial enorme para a produção da Bebida. Porém a adaptabilidade da videira Chardonnay, principal variedade branca para a elaboração de espumante não havia sido testada e validada. A solução consiste em verificar a adaptação em termos de produção, qualidade da uva e do vinho produzido. Essa tecnologia permite diversificar a produção de vinhos espumantes principalmente em regiões onde a dupla poda não é possível.",
+    "anoInicio": "2005",
+    "anoDisponibilizacao": "2009",
+    "anoAdocao": "2007",
+    "parcerias": "FAPEMIG",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [
+      "Sul/Sudoeste de Minas"
+    ],
+    "difusaoNacional": true,
+    "estadosDifusao": "SP e RJ",
+    "publicosBeneficiados": "Vitivinicultores em todos os estados do Sudeste, abrangendo portes de médios e grandes produtores de vinho com ou sem a produção da cultivar.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Carvalho Branco",
+        "tipo": "Vinhedo",
+        "municipio": "Caldas-MG",
+        "nomeContato": "Murillo de Albuquerque Regina",
+        "telefone": "(35) 99977-6214"
+      },
+      {
+        "estabelecimento": "Ventania Vinhedos",
+        "tipo": "Vinhedo",
+        "municipio": "Caldas-MG",
+        "nomeContato": "Isabela Peregrino",
+        "telefone": "(35) 98705-1598"
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Expansão da produção em novas áreas",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "A medida em que a cultivar se adapta as condições edafoclimáticas da região Sudeste e se mostra produtiva e com alta qualidade da bebida produzida os vitivinicultores podem optar pelo seu cultivo, dessa forma fornecendo ao mercado consumidor um tipo diferente de vinho (espumantes) com alta qualidade, atendendo assim as demandas. Além disso, pode-se também indiretamente influenciar em toda cadeia enoturística, fomentando uma rota regional de turismos, movimentando, cadeias de hotelaria e restaurantes, além do vinho.",
+    "produtoImpactado": "Uva e Vinho",
+    "unidadeMedida": "Vinhedo implantados (Ha), Produtividade (kg/ha) e Garrafas de vinho produzidos (Und/safra)",
+    "cenarioComparacao": "Ausência parcial ou total da atividade",
+    "descricaoCenario": "Na ausência da tecnologia EPAMIG, os produtores não tinham a possibilidade de elaborar vinhos espumantes, pois poucos produtores tinham a possibilidade, seja ela econômica ou temporal, de avaliar essa cultivar de interesse numa margem de 5 a 10 anos para depois verificar o potencial da cultivar e ampliar seu cultivo. Desse modo, com a tecnologia validada, os cultivos tomaram crescimento nas últimas décadas, permitindo a produção de bebidas de alta qualidade."
+  }
+}
