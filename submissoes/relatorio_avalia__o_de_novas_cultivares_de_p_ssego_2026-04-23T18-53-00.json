@@ -1,0 +1,55 @@
+{
+  "tecnologia": "Avaliação de novas cultivares de pêssego",
+  "data_transmissao": "2026-04-23T18:53:00.540Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "Campo experimental de Maria da Fé ",
+    "campoExperimental": "Campo experimental de Maria da Fé ",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "A tecnologia de validação de seleções de pessegueiros no Sul de Minas Gerais consiste em um conjunto de etapas experimentais conduzidas em condições reais de cultivo, com o objetivo de identificar materiais genéticos mais adaptados às condições edafoclimáticas da região. Inspirada em modelos utilizados por instituições como a EPAMIG, essa abordagem envolve a implantação de unidades demonstrativas em propriedades rurais, permitindo a avaliação prática do desempenho das seleções.\n\nNessas áreas, diferentes genótipos são comparados quanto à produtividade, qualidade dos frutos, época de maturação, exigência em frio, resistência a pragas e doenças e adaptação ao clima local. O processo é dinâmico, com a substituição periódica de materiais inferiores por novas seleções promissoras, aumentando a eficiência da recomendação técnica .\n\nAlém da experimentação, a tecnologia inclui ações de transferência de conhecimento, como dias de campo e capacitações, permitindo que produtores acompanhem os resultados e adotem cultivares mais adequadas. Dessa forma, a validação reduz riscos produtivos, aumenta a competitividade da fruticultura regional e contribui para a sustentabilidade da produção de pêsse",
+    "anoInicio": "2023",
+    "anoDisponibilizacao": "2030",
+    "anoAdocao": "2032",
+    "parcerias": "embrapa cpact, ",
+    "participacaoEpamig": "69"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "Minas Gerais, São Paulo, Rio Grande do Sul",
+    "publicosBeneficiados": "O público usuário dessa tecnologia é composto por produtores rurais, principalmente de base familiar, além de técnicos e pesquisadores ligados à fruticultura em regiões como o Sul de Minas Gerais. Inclui agricultores que buscam cultivares de pessegueiro mais adaptadas a condições de inverno ameno e maior estabilidade produtiva. Também envolve profissionais de instituições como a EPAMIG e a Embrapa. Esse público apresenta diferentes níveis de conhecimento, mas compartilha o interesse em reduzir riscos, aumentar a produtividade e tomar decisões com base em resultados validados cientificamente.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "epamig ",
+        "tipo": "instituição de pesquisa",
+        "municipio": "maria da fé ",
+        "nomeContato": "EMERSON DIAS GONÇALVES",
+        "telefone": "35991090629"
+      },
+      {
+        "estabelecimento": "ufsj ",
+        "tipo": "estabelecimento de ensino ",
+        "municipio": "são joão del rei ",
+        "nomeContato": "Paulo Marcio Norberto ",
+        "telefone": "(32) 3379-2649 ou (32) 3379-5999"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Expansão da produção em novas áreas",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "A tecnologia de validação de cultivares de pessegueiro gera impactos econômicos relevantes ao permitir a identificação e recomendação de materiais genéticos mais adaptados às condições edafoclimáticas locais, especialmente em regiões de inverno ameno, como o Sul de Minas Gerais. Esses impactos se manifestam de forma integrada na atividade produtiva, promovendo maior eficiência, competitividade e sustentabilidade dos sistemas de produção.\nO incremento de produtividade ocorre principalmente pela escolha de cultivares com melhor adaptação ao regime térmico da região, resultando em maior regularidade na brotação, floração e frutificação. Isso reduz falhas produtivas associadas à deficiência de frio hibernal e aumenta o número e o peso dos frutos por planta, refletindo diretamente no rendimento por hectare e na estabilidade da produção ao longo dos anos.\nA redução de custos é outro impacto significativo, uma vez que cultivares adaptadas demandam menor uso de insumos e práticas corretivas. Há menor necessidade de aplicação de indutores de brotação, reguladores de crescimento e defensivos agrícolas, além de redução de perdas por problemas fisiológicos e fitossanitários. Isso contribui para diminuir os custos operacionais e aumentar a margem de lucro do produtor.\nA validação também favorece a expansão da produção em novas áreas, ao viabilizar o cultivo do pessegueiro em regiões anteriormente consideradas marginais para a cultura. Com a identificação de cultivares de menor exigência em frio, produtores podem diversificar suas atividades e incorporar a cultura em seus sistemas produtivos, ampliando a área cultivada e gerando novas oportunidades de renda, especialmente para a agricultura familiar.\nAlém disso, há importante agregação de valor ao produto final. Cultivares validadas tendem a apresentar melhor qualidade de fruto, com atributos como maior calibre, coloração mais atrativa, firmeza e sabor superiores. Essas características aumentam a aceitação no mercado consumidor, possibilitando a comercialização em mercados mais exigentes e, muitas vezes, com preços mais elevados. Também favorecem o fornecimento para agroindústrias, ampliando as possibilidades de inserção em cadeias de valor.\nDessa forma, a tecnologia atua como ferramenta estratégica para a tomada de decisão, reduzindo riscos, aumentando a eficiência produtiva e promovendo ganhos econômicos consistentes para os diferentes perfis de produtores envolvidos.",
+    "produtoImpactado": "pessego in natura ",
+    "unidadeMedida": "kg/planta/ano",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "O cenário de comparação considerado representa sistemas tradicionais de cultivo de pessegueiro no Sul de Minas Gerais, nos quais os produtores utilizam cultivares não validadas regionalmente, muitas vezes selecionadas com base em recomendações genéricas ou experiências informais. Nessa condição, observa-se maior variabilidade produtiva, menor adaptação às condições climáticas locais (especialmente quanto à exigência em frio), além de maior suscetibilidade a pragas, doenças e irregularidade na produção e qualidade dos frutos.\nEsse cenário é a melhor referência para representar a situação sem adoção da tecnologia da EPAMIG, pois reflete a realidade predominante antes da introdução de processos sistemáticos de validação. Ele evidencia limitações técnicas e produtivas que são diretamente mitigadas com a adoção da tecnologia, permitindo uma comparação clara dos ganhos em produtividade, qualidade e estabilidade da produção."
+  }
+}
