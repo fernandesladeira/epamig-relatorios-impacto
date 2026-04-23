@@ -1,0 +1,62 @@
+{
+  "tecnologia": "Recomendação de portaenxertos para o pessegueiro ‘BRS Libra’ nas condições edafoclimáticas do Sul de Minas Gerais",
+  "data_transmissao": "2026-04-23T18:53:19.276Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "unidade regional do sul de minas",
+    "campoExperimental": "campo experimental de maria da fé ",
+    "localDesenvolvimento": ""
+  },
+  "secao2": {
+    "descricao": "A tecnologia “Recomendação de portaenxertos para o pessegueiro ‘BRS Libra’ nas condições edafoclimáticas do Sul de Minas Gerais” consiste na validação e indicação de materiais genéticos de portaenxertos mais adaptados às condições locais de solo e clima, visando otimizar o desempenho agronômico da cultivar BRS Libra. A partir de experimentos conduzidos em condições representativas da região, são avaliados aspectos como vigor, produtividade, eficiência de absorção de água e nutrientes, tolerância a estresses abióticos (especialmente déficit hídrico e altas temperaturas) e compatibilidade enxerto/portaenxerto.\nComo resultado, a tecnologia fornece recomendações técnicas confiáveis para produtores, reduzindo riscos na implantação de pomares, aumentando a longevidade das plantas e promovendo maior estabilidade produtiva. Trata-se de uma inovação aplicada à fruticultura de clima subtropical/tropical de altitude, alinhada às demandas impostas pelas mudanças climáticas, contribuindo para sistemas mais eficientes, resilientes e economicamente viáveis no Sul de Minas Gerais.",
+    "anoInicio": "2014",
+    "anoDisponibilizacao": "2017",
+    "anoAdocao": "2020",
+    "parcerias": "embrapa cpact, ufla, ufsj",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "MG, SP, RS",
+    "publicosBeneficiados": "Os públicos diretamente beneficiados pela tecnologia incluem produtores rurais de pessegueiro do Sul de Minas Gerais, especialmente agricultores familiares e médios produtores, que passam a contar com recomendações seguras de portaenxertos para a cultivar BRS Libra, reduzindo riscos e aumentando produtividade e longevidade dos pomares. Também são beneficiadas cooperativas e associações de produtores, que fortalecem a organização da cadeia. Viveiristas e empresas de mudas ganham com a padronização e maior demanda por materiais recomendados. Indiretamente, agroindústrias e mercados locais se beneficiam da maior oferta e qualidade de frutos.",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "CAMPO EXPERIMENTAL DA EPAMIG DE MARIA DA FÉ ",
+        "tipo": "INSTITUIÇÃO DE PESQUISA ",
+        "municipio": "MARIA DA FÉ ",
+        "nomeContato": "EMERSON DIAS GONÇALVES",
+        "telefone": "3536621373"
+      },
+      {
+        "estabelecimento": "UFLA ",
+        "tipo": "UNIDADE DE ENSINO SUPERIOR",
+        "municipio": "LAVRAS",
+        "nomeContato": "RAFAEL PIO",
+        "telefone": "(35) 3829-1007"
+      },
+      {
+        "estabelecimento": "EPAMIG",
+        "tipo": "INSTITUIÇÃO DE PESQUISA",
+        "municipio": "SÃO JOÃO DEL REI ",
+        "nomeContato": "Paulo Marcio Norberto ",
+        "telefone": "3599266600"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Redução de custos",
+      "Expansão da produção em novas áreas",
+      "Agregação de valor"
+    ],
+    "descricaoImpacto": "A tecnologia de recomendação de portaenxertos para o pessegueiro BRS Libra impacta diretamente a eficiência produtiva dos pomares no Sul de Minas Gerais, manifestando-se de forma integrada nos diferentes tipos de impacto econômico.\n\nO incremento de produtividade ocorre pela melhor adaptação dos portaenxertos às condições edafoclimáticas locais, promovendo maior vigor equilibrado, melhor pegamento de flores e frutos e maior eficiência fisiológica das plantas. Isso resulta em aumento da produção por planta e maior regularidade de safras, reduzindo a alternância produtiva.\n\nA redução de custos é observada principalmente na menor necessidade de intervenções corretivas. Portaenxertos adaptados proporcionam maior eficiência na absorção de água e nutrientes, reduzindo gastos com irrigação e fertilização. Além disso, há menor mortalidade de plantas e menor incidência de problemas fisiológicos, diminuindo custos com replantio, manejo fitossanitário e mão de obra.\n\nA expansão da produção em novas áreas torna-se viável com o uso de portaenxertos mais tolerantes a condições adversas, como temperaturas elevadas e limitações hídricas. Isso permite a introdução do pessegueiro em áreas anteriormente consideradas marginais para a cultura, ampliando a base produtiva regional e diversificando sistemas agrícolas.\n\nA agregação de valor ocorre pela melhoria na qualidade dos frutos, incluindo tamanho, coloração, firmeza e uniformidade, atributos essenciais para o mercado in natura e para a agroindústria. Frutos de melhor qualidade alcançam preços superiores, aumentando a rentabilidade do produtor e fortalecendo a competitividade da cadeia produtiva.\n\nDe forma geral, a tecnologia promove maior previsibilidade e estabilidade econômica da atividade, reduzindo riscos e tornando o cultivo do pessegueiro mais atrativo e sustentável no contexto das mudanças climáticas. Isso contribui para a consolidação da fruticultura de clima temperado em regiões de transição climática, como o Sul de Minas Gerais.",
+    "produtoImpactado": "MUDAS DE PESSEUEIRO ",
+    "unidadeMedida": "NUMERO MUDAS PRODUZIDAS ",
+    "cenarioComparacao": "Desempenho observado entre não adotantes",
+    "descricaoCenario": "O cenário de comparação adotado corresponde ao cultivo do pessegueiro sem o uso de recomendações técnicas específicas de portaenxertos para a cultivar BRS Libra, prática ainda comum entre produtores que utilizam materiais genéticos de forma empírica ou baseados em indicações não regionalizadas. Nesse contexto, observa-se maior variabilidade no desempenho das plantas, menor adaptação às condições edafoclimáticas locais, maior suscetibilidade a estresses abióticos e menor eficiência no uso de insumos, resultando em produtividade instável e maiores custos de produção.\n\nEsse cenário é a melhor referência por representar a realidade predominante antes da geração e validação da tecnologia, permitindo comparar de forma clara os ganhos obtidos com a adoção de porta enxertos recomendados, evidenciando os impactos econômicos, produtivos e de sustentabilidade proporcionados pela inovação desenvolvida pela EPAMIG."
+  }
+}
