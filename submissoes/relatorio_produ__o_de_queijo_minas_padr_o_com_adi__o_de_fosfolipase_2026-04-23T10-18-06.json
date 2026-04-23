@@ -1,0 +1,53 @@
+{
+  "tecnologia": "Produção de queijo Minas Padrão com adição de fosfolipase",
+  "data_transmissao": "2026-04-23T10:18:06.223Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Instituto",
+    "nomeUnidade": "Instituto de laticinios Candido Tostes",
+    "campoExperimental": "",
+    "localDesenvolvimento": "A tecnologia foi desenvolvida em parceria com a Cooperativa Agropecuária S João Nepomuceno - Tupinambás Laticinios em um adissertação do Mestrado Profisisonal em Ciencia e Tecnologia de leite e derivados cuja discente trabalha no laticinio"
+  },
+  "secao2": {
+    "descricao": "A tecnologia é a utilização da enzima fosfolipase na fabricação do queijo Minas Padrão para melhoria de rendimento. Essa enzima já tem propriedade de melhorar o rendimento na fabricação de queijos frescos, mas nunca foi utilizada no queijo Minas Padrão, um queijo nacional maturado. Também os trabalhos com a enzima em queijo utilizam o mesmo teor de gordura do leite na fabricação. Nesse trabalho, o teor de gordura do leite do queijo foi reduzido de 3,2% para 2,5%, o que poderia prejudicar o rendimento do queijo e também as suas características como tornar o queijo mais duro e borrachento. Conseguiu-se o mesmo rendimento no queijo controle sem enzima com 3,1% de gordura no leite e no queijo com 2,5% de gordura no leite com fosfolipase, sem alterar o teor de umidade e gordura no extrato seco e com melhor aceitação sensorial entre os tratamentos. Isso se torna um ganho para a indústria que pode utilizar esse creme para um outro produto como manteiga, sem perda das características do queijo Minas Padrão como dureza, elasticidade, mastigabilidade e cor.  ",
+    "anoInicio": "2021",
+    "anoDisponibilizacao": "2026",
+    "anoAdocao": "2023",
+    "parcerias": "Cooperativa Agropecuária S João Nepomuceno - Tupinambás Laticinios",
+    "participacaoEpamig": "49"
+  },
+  "secao3": {
+    "regionalAtivado": true,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": false,
+    "estadosDifusao": "",
+    "publicosBeneficiados": "A tecnologia é para fabricação de um queijo industrial, portanto qualquer industria de laticinios que fabrique queijo minas padrão",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "EDNA MARINA DE OLIVEIRA DOMINGOS",
+        "tipo": "",
+        "municipio": "São João nepomuceno",
+        "nomeContato": "",
+        "telefone": "32999176179"
+      },
+      {
+        "estabelecimento": "Cooperativa Agropecuária S João Nepomuceno - Tupinambás Laticinios",
+        "tipo": "Cooperativa",
+        "municipio": "São João nepomuceno",
+        "nomeContato": "EDNA MARINA DE OLIVEIRA DOMINGOS",
+        "telefone": " (32) 3261-1150 "
+      }
+    ],
+    "politicaPublica": "Não"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade"
+    ],
+    "descricaoImpacto": " é possível alcançar o mesmo rendimento no queijo controle - (Minas padrão tradicional fabricado com 3,1% de gordura no leite)  e no queijo com 2,5% de gordura no leite com fosfolipase, sem alterar o teor de umidade e gordura no extrato seco (requisitos exigidos pela legislação) e a qualidade sensorial. Isso se torna um ganho para a indústria que pode utilizar esse creme para um outro produto como manteiga, sem perder aas características do queijo Minas Padrão como dureza, elasticidade, mastigabilidade e cor, sabor, composição físico-química.",
+    "produtoImpactado": "queijo Minas Padrão",
+    "unidadeMedida": "kg/ano",
+    "cenarioComparacao": "Prática tradicional anteriormente utilizada",
+    "descricaoCenario": "O projeto foi realizado comparando a mesma tecnologia de fabricação de queijo Minas Padrão tradicional utilizando o leite com 3,1% de gordura com  um leite com 2,5 % de gordura com o uso da enzima. A tecnologia empregada foi a mesma, apenas com redução do teor de gordura para que fosse possível a comparação entre as fabricações. "
+  }
+}
