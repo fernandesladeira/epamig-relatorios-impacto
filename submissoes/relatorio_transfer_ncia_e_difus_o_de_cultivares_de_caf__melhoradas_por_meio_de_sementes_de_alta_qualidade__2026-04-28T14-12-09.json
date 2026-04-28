@@ -1,0 +1,61 @@
+{
+  "tecnologia": "Transferência e difusão de cultivares de café melhoradas por meio de sementes de alta qualidade.",
+  "data_transmissao": "2026-04-28T14:12:09.040Z",
+  "status": "enviado_pelo_pesquisador",
+  "secao1": {
+    "unidadeTipo": "Unidade Regional",
+    "nomeUnidade": "EPAMIG Sul e EPAMIG Oeste",
+    "campoExperimental": "Campo Experimental de Três Pontas, Machado e São Sebastião do Paraíso, Campo Experimental de Patrocínio",
+    "localDesenvolvimento": "Não se aplica"
+  },
+  "secao2": {
+    "descricao": "O Programa de Melhoramento Genético do Cafeeiro da EPAMIG é o responsável pelo desenvolvimento das cultivares com alto potencial produtivo, qualidade de bebida e resistência a pragas e doenças, dentre outros . A partir dessas cultivares, também estão sendo conduzidos experimentos de validação em diferentes regiões cafeeiras, por meio de unidades demonstrativas instaladas em propriedades comerciais, permitindo avaliar o desempenho dos materiais nas condições reais de cultivo. O uso de sementes de alta qualidade é um dos pilares dessa tecnologia. Produzidas sob rigoroso controle técnico, essas sementes apresentam elevada pureza, germinação e vigor, atendendo aos padrões estabelecidos pelo Ministério da Agricultura. Isso assegura a formação de mudas mais uniformes e sadias, impactando diretamente na produtividade e na qualidade final da lavoura .Dessa forma, a tecnologia contribui para a disseminação segura e eficiente de cultivares superiores, promovendo ganhos de produtividade, sustentabilidade dos sistemas de produção e fortalecimento da cafeicultura mineira, ao aproximar ciência, inovação e prática agrícola.",
+    "anoInicio": "2000",
+    "anoDisponibilizacao": "2000",
+    "anoAdocao": "2000",
+    "parcerias": "EPAMIG, EMBRAPA CAFÉ, FAPEMIG, CNPQ, UFLA, UFV, CONSÓRICIO PESQUISA CAFÉ",
+    "participacaoEpamig": "70"
+  },
+  "secao3": {
+    "regionalAtivado": false,
+    "mesorregioesSelecionadas": [],
+    "difusaoNacional": true,
+    "estadosDifusao": "SP, GO, AC, PR...",
+    "publicosBeneficiados": "Produtores rurais (cafeicultores), viveiristas, cooperativas e associações de produtores, agroindústrias e empresas do setor cafeeiro, assistência técnica e extensão rural, engenheiros agrônomos, técnicos agrícolas e consultores que utilizam essa tecnologia como base para recomendação técnica, instituições de pesquisa e ensino, universidades e centros de pesquisa com geração de dados e fortalecimento de parcerias, secretarias de agricultura e instituições governamentais utilizam os resultados dessa tecnologia para subsidiar políticas públicas voltadas ao desenvolvimento da cafeicultura. De forma geral, trata-se de uma tecnologia com impacto sistêmico, que fortalece toda a cadeia do café. ",
+    "fontesReferencia": [
+      {
+        "estabelecimento": "Produtor rural ",
+        "tipo": "Propriedade particular",
+        "municipio": "Ilicínea",
+        "nomeContato": "Lucas",
+        "telefone": "(35) 9 84167550"
+      },
+      {
+        "estabelecimento": "Produtora rural ",
+        "tipo": "Propriedade particular",
+        "municipio": "São Gonçalo do Sapucaí",
+        "nomeContato": "Sandra Maria",
+        "telefone": "(11) 9 5222-5806"
+      },
+      {
+        "estabelecimento": "Produtor rural ",
+        "tipo": "Propriedade particular",
+        "municipio": "Três Pontas / Santana da Vargem",
+        "nomeContato": "Silvano Belineli",
+        "telefone": "(35) 9 9857-3488"
+      }
+    ],
+    "politicaPublica": "Sim"
+  },
+  "secao4": {
+    "tiposImpacto": [
+      "Incremento de produtividade",
+      "Expansão da produção em novas áreas"
+    ],
+    "descricaoImpacto": "Se manifesta de forma direta e contínua na atividade cafeeira. Em primeiro lugar, há elevação da produtividade, as cultivares melhoradas apresentam maior potencial produtivo. Outro ponto importante é a redução de custos de produção, muitas cultivares são desenvolvidas com resistência ou tolerância a pragas e doenças, o que diminui a necessidade de aplicações de defensivos e o gasto com insumos e mão de obra. A tecnologia também impacta na qualidade do produto final, favorecendo a obtenção de cafés com melhor padrão físico e sensorial, isso amplia as possibilidades de comercialização, permitindo ao produtor acessar mercados diferenciados e, consequentemente, obter melhores preços e maior valor agregado. Assim, a tecnologia contribui para o aumento da renda do produtor, melhoria da eficiência produtiva e fortalecimento econômico da cafeicultura.",
+    "produtoImpactado": "Sementes de café (espécie Coffea arabica)",
+    "unidadeMedida": "Kg/ano",
+    "cenarioComparacao": "Tecnologia alternativa ou concorrente",
+    "descricaoCenario": "A não adoção desta tecnologia da EPAMIG irá implicar para o Produtor e demais envolvidos no setor no uso de cultivares mais antigas ou não melhoradas, com menor potencial produtivo e maior suscetibilidade a pragas e doenças. \nOu aquisição de materiais melhorados de outras Instituições de pesquisa. "
+  }
+}
